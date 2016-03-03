@@ -1,0 +1,38 @@
+---
+title: "San Carlos R User Group"
+output: 
+  html_document: 
+    highlight: tango
+    theme: flatly
+---
+
+Las reuniones del San Carlos RUG se organizan cada último jueves del mes. Te
+invitamos a proponer charlas y talleres, o temas de interés. Así que toma la
+oportunidad de compartir tus experiencias, presentar paquetes que estés
+desarrollando, o proyectos en los cuales aplicas R.
+
+Si quieres leer mas, tenemos una [breve introduccion y listado de
+recursos](http://san-carlos-rug.github.io/introduccion.html) y las [discusiones
+en
+meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/)
+el cual es nuestro medio de discusion principal.
+
+---
+
+[31 de Marzo del 2016]()
+
+**Por anunciar**
+
+---
+
+[25 de Febrero del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/228348699/)
+
+*16:00-17:30: "Taller de introducción a R"*
+
+En lo posible lleva un laptop para poder seguir la introducción y sigue los pasos descritos aquí para llevar todo lo que necesitas cargado en tu computador. Cuentanos si tienes preguntas especificas o temas que quisieras que discutamos.
+
+*18:00-19:00: Charla: "R para Minería de Datos: Caso Grupo Nación"*
+
+Michael Herradora del Grupo Nación nos dará una charla sobre como ellos están usando R.
+
+---
