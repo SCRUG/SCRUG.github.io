@@ -19,20 +19,33 @@ el cual es nuestro medio de discusion principal.
 
 ---
 
-[31 de Marzo del 2016]()
+[31 de Marzo del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/229313213/)
 
-**Por anunciar**
+**16:00-16:30: Charla: "Dando vida a los datos máquina del IoT"**
+
+*Por: Juan Pablo Rodriguez Rojas y Rogelio González Quirós*
+
+Estamos en vísperas de una explosión masiva de datos disponibles para análisis. No solo datos de personas, pero también de sistemas de producción. Esto va a incluir industrias como la agricultura y ganadería donde las posibilidad para reunir datos son masivas. Usar estos datos es uno de los grandes retos para el futuro, y uno de las las aplicaciones donde R se destaca como lenguaje.
+
+**16:30-18:00: Taller**
+
+Abre el taller del Grupo de Usuarios R en San Carlos. [El foro esta abierto](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/) a propuestas para proyectos y ideas que podemos trabajar. Por favor añade el link a los datos públicos que podemos usar. 
+
+No se te olvide llevar tu laptop con R y RStudio instalado. Si no tienes laptop disponible no importa: siempre hay alguien con quien compartir pantalla.
+
 
 ---
 
 [25 de Febrero del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/228348699/)
 
-*16:00-17:30: "Taller de introducción a R"*
+**16:00-17:30: "Taller de introducción a R"**
 
 En lo posible lleva un laptop para poder seguir la introducción y sigue los pasos descritos aquí para llevar todo lo que necesitas cargado en tu computador. Cuentanos si tienes preguntas especificas o temas que quisieras que discutamos.
 
-*18:00-19:00: Charla: "R para Minería de Datos: Caso Grupo Nación"*
+**18:00-19:00: Charla: "R para Minería de Datos: Caso Grupo Nación"**
 
-Michael Herradora del Grupo Nación nos dará una charla sobre como ellos están usando R.
+*Por: Michael Herradora*
+
+Michael Herradora del [Grupo Nación](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/229313213/) nos dará una charla sobre como ellos están usando R.
 
 ---
