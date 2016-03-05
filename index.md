@@ -12,8 +12,10 @@ Bienvenido al Grupo de Usuarios R en San Carlos, Costa Rica. Si buscas unirte
 al grupo, o si quieres ver las reuniones futuras (o pasadas) mira aqui:
 [www.meetup.com/San-Carlos-R-User-Group/](http://www.meetup.com/San-Carlos-R-User-Group/). 
 
-In esta pagina presentamos información general y esta abierto a todos los
-comentarios y sugerencias para mejorarlo! 
+In esta pagina presentamos información general y esta abierto a todos los 
+comentarios y sugerencias para mejorarlo! Tambien mantenemos una [pagina con
+fuentes de datos abiertos](fuentes-de-datos.html) done te solicitamos añadir
+cualquier fuente de datos que no hayamos encontrado aun.
 
 ## Instalar R (para participar en los talleres)
 Para participar en los talleres necesitas tener instalado una versión reciente
@@ -28,8 +30,8 @@ introducciones. En los anuncios de cada taller y charla se mencionaran paquetes
 adicionales, pero siempre se asume que tengas lo siguiente:
 
 ```{r}
-# Para leer datos de Excel: read_xl
-install.packages("read_xl")
+# Para leer datos de Excel: readxl
+install.packages("readxl")
 
 # Para manipular datos: dplyr, tidyr
 install.packages("dplyr", "tidyr")
@@ -54,8 +56,7 @@ R](http://bogota-r.github.io/graficas/).
 
 Pero posiblemente lo mas importante es que busques un problema para analizar
 que te guste o que sea necesario para tu trabajo/estudio/saludo mental. Hay un
-[portal de datos abiertos](http://datosabiertos.gob.go.cr/home/) de Costa Rica,
-y muchos recursos mas a nivel internacional.
+[pagina con fuentes de datos](fuentes-de-datos.html) en Costa Rica y el mundo.
 
 ### Hojas de Referencia en español
 * [Domar Datos](http://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-spanish.pdf)

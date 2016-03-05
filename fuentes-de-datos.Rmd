@@ -5,21 +5,37 @@ output:
     highlight: tango
     theme: flatly
 ---
+## Datos Abiertos en San Carlos
+- [Municipio de San Carlos: actas del consejo
+  ](http://www.munisc.go.cr/Paginas/Visitantes/Transparencia.aspx). En el
+ http://san-carlos-rug.github.io/fuentes-de-datos.html municipio de San Carlos tenemos disponibles todas las actas del consejo en
+  formato PDF desde Febrero 2015. 
 
 ## Datos Abiertos en Costa Rica
-
-La fuente principal de datos abiertos parece ser la plataforma gubernamental con el [Portal de Datos Abiertos](http://datosabiertos.gob.go.cr/home/). No he logrado encontrar datos crudos, las vistas parecen todas ofrecer tablas con datos ya trabajados y resumidos. Un indice del [Global Open Data Index](http://index.okfn.org/place/costa-rica/) para Costa Rica muestra algunas fuentes mas. Así hay por ejemplo un archivo interesante con [datos de la historia electoral](http://tse.go.cr/zip/elecciones/eleccionescifras.zip ) en el país. Ese último podría ser una base para un dashboard interactivo.
-
-Existe un conjunto de [datos cantonales](https://drive.google.com/folderview?id=0B4kFy6fhjfEDfkpUZUJhQXFicDY5TUMwaHk2ZzdkSTgtdWVDYVowc0RCX3gzbmxGZVJnbG8&usp=sharing) que se usó para el [Data Expedition in Costa Rica](http://schoolofdata.org/2015/07/06/analyzing-regional-data-data-expedition-in-costa-rica/). La cual es otra opción con información local y regional.
-
-En el municipio de San Carlos tenemos disponibles todas las [actas del consejo desde Febrero 2015](http://www.munisc.go.cr/Paginas/Visitantes/Transparencia.aspx). Si es para aprender y divertirnos podriamso considerar algo de text-mining sobre todos los documentos para ver que encontramos.
+ 
+- [Portal de Datos Abiertos](http://datosabiertos.gob.go.cr/home/). La
+  plataforma gubernamental para datos abiertos en Costa Rica. Es dificil
+  encontrar datos crudos, las vistas parecen todas ofrecer tablas con datos ya
+  trabajados y resumidos. 
+-  [Global Open Data Index](http://index.okfn.org/place/costa-rica/) - Contiene
+  un indice del para Costa Rica muestra algunas fuentes mas. Así hay por
+  ejemplo un archivo interesante con [datos de la historia
+  electoral](http://tse.go.cr/zip/elecciones/eleccionescifras.zip ) en
+  el país.
+- [datos cantonales](https://drive.google.com/folderview?id=0B4kFy6fhjfEDfkpUZUJhQXFicDY5TUMwaHk2ZzdkSTgtdWVDYVowc0RCX3gzbmxGZVJnbG8&usp=sharing)
+  Un conjunto de datos de que se usó para el [Data Expedition in Costa
+  Rica](http://schoolofdata.org/2015/07/06/analyzing-regional-data-data-expedition-in-costa-rica/).
+  La cual es una opción con información local y regional.
 
 ## Datos Abiertos Internacionales
 
-La Universidad de Princeton tambien mantiene un [pagina con datos que incluyen Costa Rica](http://dss.princeton.edu/cgi-bin/dataresources/newdataresources.cgi?term=117). No todos son abiertos, pero quizas veas algun conjunto de datos grande que nos pueda servir.
-
-Tenemos disponibles los datos del projecto [OpenData Barometer](http://www.opendatabarometer.org/). Son [datos del 2014](http://www.opendatabarometer.org/report/about/data.html), pero podemos ver si podemos mirar con mas detalle los resultados para Costa Rica, o America Central.
-
-Para trabajar en ejemplos, siempre están los [datos del banco mundial](http://data.worldbank.org/country/costa-rica) que son ordenados (relativamentes fáciles de usar) y dan muchos datos históricos con que jugar.
-
-Como ultimo hay un a lista extensa de [conjuntos de datos publicos](https://github.com/caesar0301/awesome-public-datasets) en Github. Alli hay muchisimos datos agrupados por tema.
+- [Indice de La Universidad de
+  Princeton](http://dss.princeton.edu/cgi-bin/dataresources/newdataresources.cgi?term=117).
+  Mantienen una pagina con datos que incluyen Costa Rica. No todos son
+  abiertos, y no todos son datos crudos.
+- [OpenData Barometer](http://www.opendatabarometer.org/). Incluyen 
+  [datos del 2014](http://www.opendatabarometer.org/report/about/data.html)
+- [datos del banco mundial](http://data.worldbank.org/country/costa-rica).  Son ordenados
+(relativamentes fáciles de usar) y dan muchos datos históricos con que jugar.
+- [Fabulosos Conjuntos de Datos Publicos](https://github.com/caesar0301/awesome-public-datasets) en Github.
+  Alli hay muchos datos agrupados por tema.
