@@ -50,10 +50,10 @@ Ademas recomendamos las presentaciones del grupo de usuarios en Bagota, como la
 [introducción a R](http://bogota-r.github.io/intro/) y sobre [gráficas en
 R](http://bogota-r.github.io/graficas/).
 
-Pero posiblemente lo mas importante es que busques un problema para analizar
-que te guste o que sea necesario para tu trabajo/estudio/saludo mental. Hay un
-[portal de datos abiertos](http://datosabiertos.gob.go.cr/home/) de Costa Rica,
-y muchos recursos mas a nivel internacional.
+Pero posiblemente lo mas importante es que busques un problema para analizar que
+te guste o que sea necesario para tu trabajo/estudio/saludo mental. Mantenemos
+una [pagina con fuentes de datos](fuentes-de-datos.html) donde coleccionamos
+datos sobre San Carlos, Costa Rica, y recursos mas a internacional.
 
 ### Hojas de Referencia en español
 * [Domar Datos](http://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-spanish.pdf)
