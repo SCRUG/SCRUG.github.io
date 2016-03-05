@@ -6,9 +6,8 @@ output:
     theme: flatly
 ---
 ## Datos Abiertos en San Carlos
-- [Municipio de San Carlos: actas del consejo
-  ](http://www.munisc.go.cr/Paginas/Visitantes/Transparencia.aspx). En el
- http://san-carlos-rug.github.io/fuentes-de-datos.html municipio de San Carlos tenemos disponibles todas las actas del consejo en
+- [Municipio de San Carlos: actas del consejo ](http://www.munisc.go.cr/Paginas/Visitantes/Transparencia.aspx). 
+  En el municipio de San Carlos tenemos disponibles todas las actas del consejo en
   formato PDF desde Febrero 2015. 
 
 ## Datos Abiertos en Costa Rica
