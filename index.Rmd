@@ -11,11 +11,13 @@ invitamos a proponer charlas y talleres, o temas de interés. Así que toma la
 oportunidad de compartir tus experiencias, presentar paquetes que estés
 desarrollando, o proyectos en los cuales aplicas R.
 
-Si quieres leer mas, tenemos una [breve introduccion y listado de
+Si quieres leer mas, tenemos una [breve introducción y listado de
 recursos](http://san-carlos-rug.github.io/introduccion.html) y las [discusiones
-en
-meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/)
-el cual es nuestro medio de discusion principal.
+en meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/)
+el cual es nuestro medio de discusión principal. También mantenemos una [lista
+de datos públicos](http://san-carlos-rug.github.io/fuentes-de-datos.html) para
+usar en los talleres, donde nos enfocamos en identificar fuentes de datos datos
+locales (San Carlos) y nacionales (Costa Rica).
 
 ---
 
@@ -25,13 +27,22 @@ el cual es nuestro medio de discusion principal.
 
 *Por: Juan Pablo Rodriguez Rojas y Rogelio González Quirós*
 
-Estamos en vísperas de una explosión masiva de datos disponibles para análisis. No solo datos de personas, pero también de sistemas de producción. Esto va a incluir industrias como la agricultura y ganadería donde las posibilidad para reunir datos son masivas. Usar estos datos es uno de los grandes retos para el futuro, y uno de las las aplicaciones donde R se destaca como lenguaje.
+Estamos en vísperas de una explosión masiva de datos disponibles para análisis.
+No solo datos de personas, pero también de sistemas de producción. Esto va a
+incluir industrias como la agricultura y ganadería donde las posibilidad para
+reunir datos son masivas. Usar estos datos es uno de los grandes retos para el
+futuro, y uno de las las aplicaciones donde R se destaca como lenguaje.
 
 **16:30-18:00: Taller**
 
-Abre el taller del Grupo de Usuarios R en San Carlos. [El foro esta abierto](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/) a propuestas para proyectos y ideas que podemos trabajar. Por favor añade el link a los datos públicos que podemos usar. 
+Abre el taller del Grupo de Usuarios R en San Carlos. [El foro esta
+abierto](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/)
+a propuestas para proyectos y ideas que podemos trabajar. Por favor añade el
+eslabón a los datos públicos que podemos usar. 
 
-No se te olvide llevar tu laptop con R y RStudio instalado. Si no tienes laptop disponible no importa: siempre hay alguien con quien compartir pantalla.
+No se te olvide llevar tu portátil con R y RStudio instalado. Si no tienes
+portátil disponible no importa: siempre hay alguien con quien compartir
+pantalla.
 
 
 ---
@@ -40,12 +51,16 @@ No se te olvide llevar tu laptop con R y RStudio instalado. Si no tienes laptop 
 
 **16:00-17:30: "Taller de introducción a R"**
 
-En lo posible lleva un laptop para poder seguir la introducción y sigue los pasos descritos aquí para llevar todo lo que necesitas cargado en tu computador. Cuentanos si tienes preguntas especificas o temas que quisieras que discutamos.
+En lo posible lleva un portátil para poder seguir la introducción y sigue los
+pasos descritos aquí para llevar todo lo que necesitas cargado en tu
+computador. Cuéntanos si tienes preguntas especificas o temas que quisieras que
+discutamos.
 
 **18:00-19:00: Charla: "R para Minería de Datos: Caso Grupo Nación"**
 
 *Por: Michael Herradora*
 
-Michael Herradora del [Grupo Nación](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/229313213/) nos dará una charla sobre como ellos están usando R.
+Michael Herradora del [Grupo Nación](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/229313213/)
+nos dará una charla sobre como ellos están usando R.
 
 ---

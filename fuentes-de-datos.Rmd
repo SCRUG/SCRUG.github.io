@@ -13,7 +13,7 @@ output:
 ## Datos Abiertos en Costa Rica
  
 - [Portal de Datos Abiertos](http://datosabiertos.gob.go.cr/home/). La
-  plataforma gubernamental para datos abiertos en Costa Rica. Es dificil
+  plataforma gubernamental para datos abiertos en Costa Rica. Es difícil
   encontrar datos crudos, las vistas parecen todas ofrecer tablas con datos ya
   trabajados y resumidos. 
 -  [Global Open Data Index](http://index.okfn.org/place/costa-rica/) - Contiene
@@ -35,6 +35,6 @@ output:
 - [OpenData Barometer](http://www.opendatabarometer.org/). Incluyen 
   [datos del 2014](http://www.opendatabarometer.org/report/about/data.html)
 - [datos del banco mundial](http://data.worldbank.org/country/costa-rica).  Son ordenados
-(relativamentes fáciles de usar) y dan muchos datos históricos con que jugar.
-- [Fabulosos Conjuntos de Datos Publicos](https://github.com/caesar0301/awesome-public-datasets) en Github.
-  Alli hay muchos datos agrupados por tema.
+(relativamente fáciles de usar) y dan muchos datos históricos con que jugar.
+- [Fabulosos Conjuntos de Datos Públicos](https://github.com/caesar0301/awesome-public-datasets) en Github.
+  Allí hay muchos datos agrupados por tema.

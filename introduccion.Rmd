@@ -23,7 +23,7 @@ correspondientes de los programas.
 Una vez que tienes R y RStudio Desktop instalado puedes correr el siguiente
 código para tengas el mínimo de paquetes necesarios para seguir las
 introducciones. En los anuncios de cada taller y charla se mencionaran paquetes
-adicionales, pero siempre se asume que tengas instalado como minimo lo siguiente:
+adicionales, pero siempre se asume que tengas instalado como mínimo lo siguiente:
 
 ```{r, echo=TRUE, eval=FALSE}
 # Para leer datos de Excel: readxl
@@ -67,7 +67,7 @@ datos sobre San Carlos, Costa Rica, y recursos mas a internacional.
 
 * [R Reference Card 2.0](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf) - Material
 del libro [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf).
-* [Data Mining Refcard](http://www.rdatamining.com/docs/R-refcard-data-mining.pdf) - Hoja de referencia para mineria de datos en R.
+* [Data Mining Refcard](http://www.rdatamining.com/docs/R-refcard-data-mining.pdf) - Hoja de referencia para minería de datos en R.
 * [Regression Analysis Refcard](http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf) - Hoja de referencia para análisis de regresión en R.
 
 ## Lista (muy) abreviada de cosas fabulosas
@@ -83,7 +83,7 @@ paquetes en
 ### Manipulación de datos
 *Paquetes para preparar datos.*
 
-* [dplyr](https://github.com/hadley/dplyr) - Manipulación de data frames veloz
+* [dplyr](https://github.com/hadley/dplyr) - Manipulación de *data frames* veloz
   y búsquedas en bases de datos. 
 * [data.table](https://github.com/Rdatatable/data.table) - Manipulación de
   datos en una sintaxis breve y flexible.
@@ -136,6 +136,6 @@ paquetes en
   testeo en una actividad divertida.
 * [roxygen](https://github.com/klutometis/roxygen) - Describe tus funciones a
   la par de sus definiciones.
-* [lintr](https://github.com/jimhester/lintr) - Analisis de código para hacer
+* [lintr](https://github.com/jimhester/lintr) - Análisis de código para hacer
   un control del estilo usado.
 
