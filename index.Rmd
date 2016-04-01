@@ -38,7 +38,7 @@ instalado.
 
 [31 de Marzo del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/229313213/)
 
-**16:00-16:30: Charla: "Dando vida a los datos máquina del IoT"**
+**16:00-16:30: Charla: "Dando vida a los datos máquina del IoT"** | [Ver la presentación]()
 
 *Por: Juan Pablo Rodriguez Rojas y Rogelio González Quirós*
 
@@ -48,7 +48,7 @@ incluir industrias como la agricultura y ganadería donde las posibilidad para
 reunir datos son masivas. Usar estos datos es uno de los grandes retos para el
 futuro, y uno de las las aplicaciones donde R se destaca como lenguaje.
 
-**16:30-18:00: Taller**
+**16:30-18:00: Taller** | [Ver la presentación](http://rpubs.com/FvD/SC-RUG-20160331)
 
 Abre el taller del Grupo de Usuarios R en San Carlos. [El foro esta
 abierto](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/)
@@ -58,8 +58,6 @@ eslabón a los datos públicos que podemos usar.
 No se te olvide llevar tu portátil con R y RStudio instalado. Si no tienes
 portátil disponible no importa: siempre hay alguien con quien compartir
 pantalla.
-
-[Ver la presentación](http://rpubs.com/FvD/SC-RUG-20160331)
 
 ---
 
