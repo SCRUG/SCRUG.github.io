@@ -12,12 +12,27 @@ oportunidad de compartir tus experiencias, presentar paquetes que estés
 desarrollando, o proyectos en los cuales aplicas R.
 
 Si quieres leer mas, tenemos una [breve introducción y listado de
-recursos](http://san-carlos-rug.github.io/introduccion.html) y las [discusiones
+recursos](http://sancarlos-rug.github.io/introduccion.html) y las [discusiones
 en meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/)
 el cual es nuestro medio de discusión principal. También mantenemos una [lista
-de datos públicos](http://san-carlos-rug.github.io/fuentes-de-datos.html) para
+de datos públicos](http://sancarlos-rug.github.io/fuentes-de-datos.html) para
 usar en los talleres, donde nos enfocamos en identificar fuentes de datos datos
 locales (San Carlos) y nacionales (Costa Rica).
+
+---
+
+[28 de Abril del 2016]()
+
+**16:00-18:00: Taller**
+
+Trabajo en el taller del Grupo de Usuarios R en San Carlos. 
+[El proyecto ActasTransparentes](https://github.com/SanCarlos-RUG/ActasTransparentes)
+esta abierto en Github para recibir ideas (en forma de "issues") y código (en
+forma de un "pull request").
+
+Para los que vienen por primera vez, no se preocupen. Los llevaremos al tanto
+tan rapidamente podamos.  No se te olvide llevar tu portátil con R y RStudio
+instalado.
 
 ---
 
@@ -44,6 +59,7 @@ No se te olvide llevar tu portátil con R y RStudio instalado. Si no tienes
 portátil disponible no importa: siempre hay alguien con quien compartir
 pantalla.
 
+[Ver la presentación](http://rpubs.com/FvD/SC-RUG-20160331)
 
 ---
 
