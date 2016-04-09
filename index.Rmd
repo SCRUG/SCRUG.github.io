@@ -7,19 +7,30 @@ output:
 ---
 
 Las reuniones del San Carlos RUG se organizan cada último jueves del mes. Te
-invitamos a proponer charlas y talleres, o temas de interés. Así que toma la
-oportunidad de compartir tus experiencias, presentar paquetes que estés
+invitamos a proponer charlas y talleres, o temas de interés. Así nos das la
+oportunidad de compartir con tus experiencias, ver paquetes que estés
 desarrollando, o proyectos en los cuales aplicas R.
 
-Si quieres leer mas, tenemos una [breve introducción y listado de
-recursos](http://sancarlos-rug.github.io/introduccion.html) y las [discusiones
-en meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/)
-el cual es nuestro medio de discusión principal. También mantenemos una [lista
-de datos públicos](http://sancarlos-rug.github.io/fuentes-de-datos.html) para
-usar en los talleres, donde nos enfocamos en identificar fuentes de datos datos
-locales (San Carlos) y nacionales (Costa Rica).
+Tenemos una [breve introducción y listado de recursos](http://sancarlos-rug.github.io/introduccion.html) 
+y las [discusiones en meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/).
+También mantenemos una [lista de datos públicos](http://sancarlos-rug.github.io/fuentes-de-datos.html) 
+para usar en los talleres, donde nos enfocamos en identificar fuentes de datos
+datos locales (San Carlos) y nacionales (Costa Rica).
+
+Fuera de los talleres nos reunimos en [Gitter](https://github.com/SanCarlos-RUG) para trabajar en proyectos del grupo. Únete al grupo [SanCarlos-RUG en Github](https://github.com/SanCarlos-RUG) mandando un mensaje o abriendo un incidente en alguno de los proyectos. 
 
 ---
+
+## Proyectos
+
+Titulo y repositorio | Incidentes abiertos | Canal de comununicación
+---------------|------------------|-----------------------
+[![ActasTransparentes](https://img.shields.io/badge/ActasTransparentes-activo-orange.svg)](https://github.com/SanCarlos-RUG/ActasTransparentes) | [![GitHub issues](https://img.shields.io/github/issues/SanCarlos-RUG/ActasTransparentes.svg)](https://github.com/SanCarlos-RUG/ActasTransparentes) | [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/SanCarlos-RUG)
+[![SanCarlos-RUG.github.io](https://img.shields.io/badge/SanCarlosRUG.github.io-activo-blue.svg)](https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io) | [![GitHub issues](https://img.shields.io/github/issues/SanCarlos-RUG/SanCarlos-RUG.github.io.svg)](https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io) | [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/SanCarlos-RUG)
+
+---
+
+## Agenda de reuniones
 
 [28 de Abril del 2016]()
 
@@ -31,7 +42,7 @@ esta abierto en Github para recibir ideas (en forma de "issues") y código (en
 forma de un "pull request").
 
 Para los que vienen por primera vez, no se preocupen. Los llevaremos al tanto
-tan rapidamente podamos.  No se te olvide llevar tu portátil con R y RStudio
+tan rápidamente podamos.  No se te olvide llevar tu portátil con R y RStudio
 instalado.
 
 ---
