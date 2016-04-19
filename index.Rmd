@@ -17,7 +17,11 @@ También mantenemos una [lista de datos públicos](http://sancarlos-rug.github.i
 para usar en los talleres, donde nos enfocamos en identificar fuentes de datos
 datos locales (San Carlos) y nacionales (Costa Rica).
 
-Fuera de los talleres nos reunimos en [Gitter](https://github.com/SanCarlos-RUG) para trabajar en proyectos del grupo. Únete al grupo [SanCarlos-RUG en Github](https://github.com/SanCarlos-RUG) mandando un mensaje o abriendo un incidente en alguno de los proyectos. 
+Fuera de los talleres nos reunimos en
+[Gitter](https://github.com/SanCarlos-RUG) para trabajar en proyectos del
+grupo. Únete al grupo [SanCarlos-RUG en
+Github](https://github.com/SanCarlos-RUG) mandando un mensaje o abriendo un
+incidente en alguno de los proyectos. 
 
 ---
 
@@ -49,7 +53,7 @@ instalado.
 
 [31 de Marzo del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/229313213/)
 
-**16:00-16:30: Charla: "Dando vida a los datos máquina del IoT"** | [Ver la presentación]()
+**16:00-16:30: Charla: "Dando vida a los datos máquina del IoT"** 
 
 *Por: Juan Pablo Rodriguez Rojas y Rogelio González Quirós*
 
@@ -74,7 +78,7 @@ pantalla.
 
 [25 de Febrero del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/228348699/)
 
-**16:00-17:30: "Taller de introducción a R"**
+**16:00-17:30: "Taller de introducción a R"** | [Ver la presentación](http://fc4449a3.s3-website-us-east-1.amazonaws.com/sancarlos-rug-intro/)
 
 En lo posible lleva un portátil para poder seguir la introducción y sigue los
 pasos descritos aquí para llevar todo lo que necesitas cargado en tu
