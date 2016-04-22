@@ -9,19 +9,17 @@ output:
 Las reuniones del San Carlos RUG se organizan cada último jueves del mes. Te
 invitamos a proponer charlas y talleres, o temas de interés. Así nos das la
 oportunidad de compartir con tus experiencias, ver paquetes que estés
-desarrollando, o proyectos en los cuales aplicas R.
+desarrollando, o proyectos en los cuales aplicas R. Únete al grupo en 
+[meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group) o en 
+[Facebook](https://www.facebook.com/groups/SanCarlosRUG/)
 
-Tenemos una [breve introducción y listado de recursos](http://sancarlos-rug.github.io/introduccion.html) 
-y las [discusiones en meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/messages/boards/).
-También mantenemos una [lista de datos públicos](http://sancarlos-rug.github.io/fuentes-de-datos.html) 
-para usar en los talleres, donde nos enfocamos en identificar fuentes de datos
-datos locales (San Carlos) y nacionales (Costa Rica).
-
-Fuera de los talleres nos reunimos en
-[Gitter](https://github.com/SanCarlos-RUG) para trabajar en proyectos del
-grupo. Únete al grupo [SanCarlos-RUG en
-Github](https://github.com/SanCarlos-RUG) mandando un mensaje o abriendo un
-incidente en alguno de los proyectos. 
+Tenemos una [introducción y listado de
+recursos](http://sancarlos-rug.github.io/introduccion.html), y varias
+presentaciones anteriores están disponibles en línea (mira abajo el link "Ver
+la presentación"). También mantenemos una [lista de datos
+públicos](http://sancarlos-rug.github.io/fuentes-de-datos.html) para usar en
+los talleres, donde nos enfocamos en identificar fuentes de datos datos locales
+(San Carlos) y nacionales (Costa Rica).
 
 ---
 
@@ -36,18 +34,41 @@ Titulo y repositorio | Incidentes abiertos | Canal de comununicación
 
 ## Agenda de reuniones
 
-[28 de Abril del 2016]()
+---
 
-**16:00-18:00: Taller**
+[28 de Abril del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/230345173/?eventId=230345173)
 
-Trabajo en el taller del Grupo de Usuarios R en San Carlos. 
-[El proyecto ActasTransparentes](https://github.com/SanCarlos-RUG/ActasTransparentes)
-esta abierto en Github para recibir ideas (en forma de "issues") y código (en
-forma de un "pull request").
+**16:00-17:00 Taller: "Leer datos"**
 
-Para los que vienen por primera vez, no se preocupen. Los llevaremos al tanto
-tan rápidamente podamos.  No se te olvide llevar tu portátil con R y RStudio
-instalado.
+Vamos a retomar impulso en las bases del uso de R. Todo comienza con datos, así
+que en esta hora vamos a ver y ensayar como leemos datos en los siguientes
+formatos comunes:
+
+- Formato text (txt, csv) 
+- Formato Excel (.xls, .xlsx)
+- Proveniente de un API (por ejemplo Twitter)
+- Coneccion a base de datos
+
+**17:00-18:00 Taller: "Actas Transparentes"**
+
+Vamos a continuar nuestra exploración de R a través del proyecto Actas
+Transparentes. Es una iniciativa del uso de datos abiertos, donde trabajamos en
+hacer Text Mining en las actas de la municipalidad de San Carlos. 
+
+Vamos a repasar un momento los pasos del "mis en place" para este proyecto:
+
+- Asegurar que todos estamos conectados en Github
+- Pasos para arrancar con un proyecto Shiny en RStudio
+- Pasos para lanzar proyectos Shiny en www.shinyapps.io
+- Reunir requisitos y ver si podemos asignar tareas
+
+**Si vienes por primera vez**
+
+En el taller tratamos de acomodar todos los niveles. Así que aún si no has
+participado antes estas bienvenida/o. Puedes ver las presentaciones anteriores
+en la pagina del grupo http://sancarlos-rug.github.io/ (sigue los eslabones
+"Ver la presentación" al lado del anuncio de las sesiones.). También hay notas
+en meetup.com y en la pagina en Facebook.
 
 ---
 
