@@ -9,17 +9,11 @@ output:
 Las reuniones del San Carlos RUG se organizan cada último jueves del mes. Te
 invitamos a proponer charlas y talleres, o temas de interés. Así nos das la
 oportunidad de compartir con tus experiencias, ver paquetes que estés
-desarrollando, o proyectos en los cuales aplicas R. Únete al grupo en 
-[meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group) o en 
-[Facebook](https://www.facebook.com/groups/SanCarlosRUG/)
-
-Tenemos una [introducción y listado de
-recursos](http://sancarlos-rug.github.io/introduccion.html), y varias
-presentaciones anteriores están disponibles en línea (mira abajo el link "Ver
-la presentación"). También mantenemos una [lista de datos
-públicos](http://sancarlos-rug.github.io/fuentes-de-datos.html) para usar en
-los talleres, donde nos enfocamos en identificar fuentes de datos datos locales
-(San Carlos) y nacionales (Costa Rica).
+desarrollando, o proyectos en los cuales aplicas R. Mira la [introducción y
+listado de recursos](http://sancarlos-rug.github.io/introduccion.html) para
+arrancar con R y únete al grupo en
+[meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group) y lee
+noticias recientes en [Facebook](https://www.facebook.com/groups/SanCarlosRUG/).
 
 ---
 
@@ -27,16 +21,45 @@ los talleres, donde nos enfocamos en identificar fuentes de datos datos locales
 
 Titulo y repositorio | Incidentes abiertos | Canal de comununicación
 ---------------|------------------|-----------------------
-[![ActasTransparentes](https://img.shields.io/badge/ActasTransparentes-activo-orange.svg)](https://github.com/SanCarlos-RUG/ActasTransparentes) | [![GitHub issues](https://img.shields.io/github/issues/SanCarlos-RUG/ActasTransparentes.svg)](https://github.com/SanCarlos-RUG/ActasTransparentes) | [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/SanCarlos-RUG)
-[![SanCarlos-RUG.github.io](https://img.shields.io/badge/SanCarlosRUG.github.io-activo-blue.svg)](https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io) | [![GitHub issues](https://img.shields.io/github/issues/SanCarlos-RUG/SanCarlos-RUG.github.io.svg)](https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io) | [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/SanCarlos-RUG)
+<a href="https://github.com/SanCarlos-RUG/ActasTransparentes"><img src="https://img.shields.io/badge/ActasTransparentes-activo-orange.svg"></a> | <a href="https://github.com/SanCarlos-RUG/ActasTransparentes"> <img src="https://img.shields.io/github/issues/SanCarlos-RUG/ActasTransparentes.svg"></a> | <a href="https://gitter.im/SanCarlos-RUG"><img src="https://img.shields.io/gitter/room/nwjs/nw.js.svg"></a>
+<a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"><img src="https://img.shields.io/badge/SanCarlosRUG.github.io-activo-blue.svg"></a> | <a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"> <img src="https://img.shields.io/github/issues/SanCarlos-RUG/SanCarlos-RUG.github.io.svg"></a> | <a href="https://gitter.im/SanCarlos-RUG"><img src="https://img.shields.io/gitter/room/nwjs/nw.js.svg"></a>
 
 ---
 
 ## Agenda de reuniones
 
+**Si vienes por primera vez**
+
+En el taller tratamos de acomodar todos los niveles. Así que aún si no has
+participado antes estas bienvenida/o. Puedes ver las presentaciones anteriores
+abajo (sigue los eslabones "Ver la presentación" al lado del anuncio de las
+sesiones.). 
+
+**Si vives lejos de Ciudad Quesada**
+
+Estamos haciendo streaming de las reuniones a travez de Google Hangouts. Si
+buscas la dirección para la reunión actual mira en los eventos en el grupo en
+[Facebook](https://www.facebook.com/groups/SanCarlosRUG/)
+
 ---
 
-[28 de Abril del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/230345173/?eventId=230345173)
+### [26 de Mayo del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/)
+
+**16:00-17:00 Taller: "Connectar a bases de datos"**
+
+Repaso del tema de leer datos de las semana pasada y trabajar con diferentes
+formas de conectar a bases de datos.
+
+- Coneccion a base de datos
+
+**17:00-18:00 Taller: "Actas Transparentes"**
+
+Seguimos trabajando en forma de taller con nuestro proyecto de Datos Abiertos /
+Gobierno abierto con las Actas del Municipio.
+
+---
+
+### [28 de Abril del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/230345173/?eventId=230345173)
 
 **16:00-17:00 Taller: "Leer datos"**
 
@@ -62,17 +85,9 @@ Vamos a repasar un momento los pasos del "mis en place" para este proyecto:
 - Pasos para lanzar proyectos Shiny en www.shinyapps.io
 - Reunir requisitos y ver si podemos asignar tareas
 
-**Si vienes por primera vez**
-
-En el taller tratamos de acomodar todos los niveles. Así que aún si no has
-participado antes estas bienvenida/o. Puedes ver las presentaciones anteriores
-en la pagina del grupo http://sancarlos-rug.github.io/ (sigue los eslabones
-"Ver la presentación" al lado del anuncio de las sesiones.). También hay notas
-en meetup.com y en la pagina en Facebook.
-
 ---
 
-[31 de Marzo del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/229313213/)
+### [31 de Marzo del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/229313213/)
 
 **16:00-16:30: Charla: "Dando vida a los datos máquina del IoT"** 
 
@@ -97,7 +112,7 @@ pantalla.
 
 ---
 
-[25 de Febrero del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/228348699/)
+### [25 de Febrero del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/228348699/)
 
 **16:00-17:30: "Taller de introducción a R"** | [Ver la presentación](http://fc4449a3.s3-website-us-east-1.amazonaws.com/sancarlos-rug-intro/)
 
