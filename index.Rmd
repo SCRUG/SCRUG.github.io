@@ -43,14 +43,21 @@ buscas la dirección para la reunión actual mira en los eventos en el grupo en
 
 ---
 
+### [30 de Junio del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/)
+
+**Por Anunciar**
+
+---
+
 ### [26 de Mayo del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/)
 
-**16:00-17:00 Taller: "Connectar a bases de datos"**
+**16:00-17:00 Taller: "Connectar a bases de datos"** | [Ver la presentación](http://bit.ly/sc-rug_20160526)
+
 
 Repaso del tema de leer datos de las semana pasada y trabajar con diferentes
 formas de conectar a bases de datos.
 
-- Coneccion a base de datos
+- Conección a base de datos
 
 **17:00-18:00 Taller: "Actas Transparentes"**
 
@@ -61,7 +68,7 @@ Gobierno abierto con las Actas del Municipio.
 
 ### [28 de Abril del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/230345173/?eventId=230345173)
 
-**16:00-17:00 Taller: "Leer datos"** | [Ver la presentación](bit.ly/sc-rug_20160428)
+**16:00-17:00 Taller: "Leer datos"** | [Ver la presentación](http://bit.ly/sc-rug_20160428)
 
 Vamos a retomar impulso en las bases del uso de R. Todo comienza con datos, así
 que en esta hora vamos a ver y ensayar como leemos datos en los siguientes
