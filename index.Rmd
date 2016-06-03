@@ -16,8 +16,7 @@ arrancar con R y únete al grupo en
 noticias recientes en [Facebook](https://www.facebook.com/groups/SanCarlosRUG/).
 
 Ademas organizamos un Happy Hacking Hour cada Jueves a las 19:00. Estas reuniones 
-siempre son en linea, mira en Facebook, y pregunta a uno de lo miembros como 
-conectarte.
+siempre son en linea, mira en Facebook, y pregunta en el chat como conectarte.
 
 ---
 
@@ -49,8 +48,6 @@ buscas la dirección para la reunión actual mira en los eventos en el grupo en
 ---
 
 ### [30 de Junio del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/)
-
-**16:00-18:00 Taller: "Actas Transparentes"** 
 
 Ahora que tenemos las bases en R cubiertas vamos a ver si organizamos los
 talleres con una agenda un poco diferente alrededor del proyecto. Nos enfocamos
