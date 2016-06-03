@@ -15,15 +15,19 @@ arrancar con R y únete al grupo en
 [meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group) y lee
 noticias recientes en [Facebook](https://www.facebook.com/groups/SanCarlosRUG/).
 
+Ademas organizamos un Happy Hacking Hour cada Jueves a las 19:00. Estas reuniones 
+siempre son en linea, mira en Facebook, y pregunta a uno de lo miembros como 
+conectarte.
+
 ---
 
 ## Proyectos
 
 Titulo y repositorio | Incidentes abiertos | Participantes 
 ---------------------|---------------------|-----------------
-<a href="https://github.com/SanCarlos-RUG/ActasTransparentes"><img src="https://img.shields.io/badge/ActasTransparentes-activo-green.svg"></a>        | <a href="https://github.com/SanCarlos-RUG/ActasTransparentes"><img src="https://img.shields.io/github/issues/SanCarlos-RUG/ActasTransparentes.svg"></a>            | <a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"> <img src="https://img.shields.io/github/forks/SanCarlos-RUG/ActasTransparentes.svg"></a>
-<a href="https://github.com/SanCarlos-RUG/PDFcurdler"><img src="https://img.shields.io/badge/PDFcurdler-activo-green.svg"></a>                          | <a href="https://github.com/SanCarlos-RUG/PDFcurdler"> <img src="https://img.shields.io/github/issues/SanCarlos-RUG/PDFcurdler.svg"></a>                           | <a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"> <img src="https://img.shields.io/github/forks/SanCarlos-RUG/PDFcurdler.svg"></a>
-<a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"><img src="https://img.shields.io/badge/SanCarlosRUG.github.io-activo-green.svg"></a> | <a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"> <img src="https://img.shields.io/github/issues/SanCarlos-RUG/SanCarlos-RUG.github.io.svg"></a> | <a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"> <img src="https://img.shields.io/github/forks/SanCarlos-RUG/SanCarlos-RUG.github.io.svg"></a>
+<a href="https://github.com/SanCarlos-RUG/ActasTransparentes"><img src="https://img.shields.io/badge/ActasTransparentes-activo-green.svg"></a>        | <a href="https://github.com/SanCarlos-RUG/ActasTransparentes"><img src="https://img.shields.io/github/issues/SanCarlos-RUG/ActasTransparentes.svg"></a>            | <a href="https://github.com/SanCarlos-RUG/ActasTransparentes"> <img src="https://img.shields.io/github/forks/SanCarlos-RUG/ActasTransparentes.svg"></a>
+<a href="https://github.com/SanCarlos-RUG/PDFcurdler"><img src="https://img.shields.io/badge/PDFcurdler-activo-green.svg"></a>                          | <a href="https://github.com/SanCarlos-RUG/PDFcurdler"> <img src="https://img.shields.io/github/issues/SanCarlos-RUG/PDFcurdler.svg"></a>                           | <a href="https://github.com/SanCarlos-RUG/PDFcurdler"><img src="https://img.shields.io/github/forks/SanCarlos-RUG/PDFcurdler.svg"></a>
+<a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"><img src="https://img.shields.io/badge/SanCarlosRUG.github.io-activo-green.svg"></a> | <a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"><img src="https://img.shields.io/github/issues/SanCarlos-RUG/SanCarlos-RUG.github.io.svg"></a> | <a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"><img src="https://img.shields.io/github/forks/SanCarlos-RUG/SanCarlos-RUG.github.io.svg"></a>
 
 ---
 
