@@ -47,7 +47,11 @@ buscas la dirección para la reunión actual mira en los eventos en el grupo en
 
 ---
 
-### [30 de Junio del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/)
+### [28 de Julio del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/)
+
+**Por anunciar**
+
+### [30 de Junio del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/231702517/)
 
 Ahora que tenemos las bases en R cubiertas vamos a ver si organizamos los
 talleres con una agenda un poco diferente alrededor del proyecto. Nos enfocamos
@@ -60,7 +64,7 @@ avanzadas. No importa el nivel, lo que haya encontrado que te presento
 dificultad lo llevas a la mesa. La estructura de la reunion será mas o menos
 así:
 
-**16:00-17:00 Taller: "Temas en R"** 
+**16:00-17:00 Taller: "Temas en R"** | [Ver la presentación](http://bit.ly/sc-rug_20160630)
 
 - Inventario de temas para profundizar en el taller
 - Breve repaso de lo que hicimos el mes pasado
