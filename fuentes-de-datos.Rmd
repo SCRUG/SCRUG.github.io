@@ -10,7 +10,7 @@ output:
   En el municipio de San Carlos tenemos disponibles todas las actas del consejo en
   formato PDF desde Febrero 2015. 
 
-## Datos Abiertos en Costa Rica
+## Datos Abiertos Costarricences
  
 - [Portal de Datos Abiertos](http://datosabiertos.gob.go.cr/home/). La
   plataforma gubernamental para datos abiertos en Costa Rica. Es difícil
