@@ -47,9 +47,22 @@ buscas la dirección para la reunión actual mira en los eventos en el grupo en
 
 ---
 
-### [28 de Julio del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/)
+### [28 de Julio del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/232617886/)
 
-**Por anunciar**
+**16:00-17:00 Taller: "Temas en R"** | [Ver la presentación](http://bit.ly/sc-rug_20160728)
+
+Aparte de escribir código R y compartir codigo (como lo hacemos con el grupo en
+Github) llega el momento en que lo queremos poder en uso. Lleva todas las
+preguntas sobre este tema a la reunion. Por lo menos vamos a mirar:
+
+- Desplegar aplicaciones Shiny en [shinyapps.io](https://www.shinyapps.io)
+- [ROCKER](https://github.com/rocker-org/rocker): R en Docker
+
+**17:00-18:00 Taller: "Actas Transparentes"** 
+
+- Estado y comentarios
+- Repaso de código propuesto 
+- Repaso de incidentes
 
 ### [30 de Junio del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/231702517/)
 
