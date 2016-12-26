@@ -43,9 +43,31 @@ sesiones.).
 
 Estamos haciendo streaming de las reuniones a travez de Google Hangouts. Si
 buscas la dirección para la reunión actual mira en los eventos en el grupo en
-[Facebook](https://www.facebook.com/groups/SanCarlosRUG/)
+[Facebook](https://www.facebook.com/groups/SanCarlosRUG/).
 
 ---
+
+### [29 de Diciembre del 2016](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/236279749/)
+
+Para finalizar el año nos reunimos para evaluar las respuestas a la encuesta que mandamos, y evaluamos las opciones para mejorar el formato en el 2017.
+
+Una de las propuestas sobre la mesa es incrementar la posibilidad de asistir remotamente, y ver grabaciones de las reuniones pasadas. Habrá espacio para discutir cualquier idea o propuesta que ere demasiado elaborada para el cuestionario.
+
+### 24 Noviembre del 2016
+
+Cancelado por la alerta roja en Ciudad Quesada durante el paso del Huracan Otto.
+
+### [27 Octubre del 2016](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/233343368/)
+
+### [29 de Setiembre del 2016](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/233343368/)
+
+Estuvo muy divertida la reunión de hoy, jugando con el AlchemyAPI en IBM Bluemix desde R! No puedo esperar hasta que el primero de nosotros logre pasar una acta por esta maquinaria de analisis.
+
+### [25 de Agosto del 2016](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/233343368/)
+
+17:00-18:00 Taller: “Temas en R” 
+
+18:00-19:00 Taller: “Actas Transparentes”
 
 ### [28 de Julio del 2016](http://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/232617886/)
 
