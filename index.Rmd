@@ -47,7 +47,9 @@ buscas la dirección para la reunión actual mira en los eventos en el grupo en
 
 ---
 
-### [29 de Diciembre del 2016](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/236279749/)
+### [29 de Diciembre del 2016](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/236279749/) 
+
+[Ver la presentacion](http://bit.ly/sc-rug_20161229)
 
 Para finalizar el año nos reunimos para evaluar las respuestas a la encuesta que mandamos, y evaluamos las opciones para mejorar el formato en el 2017.
 
@@ -55,9 +57,11 @@ Una de las propuestas sobre la mesa es incrementar la posibilidad de asistir rem
 
 ### 24 Noviembre del 2016
 
-Cancelado por la alerta roja en Ciudad Quesada durante el paso del Huracan Otto.
+Cancelado por la alerta roja en Ciudad Quesada durante el paso del [Huracan Otto](https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto).
 
 ### [27 Octubre del 2016](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/233343368/)
+
+Con un grupo pequeño miramos en detalle como conectarnos con servicios de *storage* local ([couchdb](http://couchdb.apache.org/)) y en la nuve ([Cloudant](https://cloudant.com/)). Ademas hicimos el ejercicio de crear una replica de la base de datos debajo de Actas Transparentes en Cloudant.
 
 ### [29 de Setiembre del 2016](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/233343368/)
 
