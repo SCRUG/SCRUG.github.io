@@ -1,0 +1,28 @@
+---
+title: "San Carlos R User Group"
+output: 
+  html_document: 
+    highlight: tango
+    theme: flatly
+---
+Bienvenido al Grupo de Usuarios R en San Carlos, Costa Rica. Si buscas unirte
+al grupo, o si quieres ver las reuniones futuras (o pasadas) mira aquí :
+[www.meetup.com/San-Carlos-R-User-Group/](http://www.meetup.com/San-Carlos-R-User-Group/). 
+
+Esta pagina busca ser un punto de partida para aquellos compañeros que se estan iniciando en el fabouloso mundo de R así como un punto de referencia para usuarios con más experiencia que buscan profundizar en temas especificos, acá podras encontrar links a diversos libros, articulos y videos que esperamos puedan ser de tu provecho.
+
+# Libros para iniciar en R.
+
++ ### [El arte de programar en R](ftp://cran.r-project.org/pub/R/doc/contrib/Santana_El_arte_de_programar_en_R.pdf)
+
+> #### Autores : Julio Sergio Santana y Efraín Mateos Farfán.
+#### Año de publicación : 2014.
+#### Nivel : Básico.
+
++ ### [R para principiantes](ftp://cran.r-project.org/pub/R/doc/contrib/rdebuts_es.pdf)
+
+> #### Autor : Emmanuel Paradis \<paradis@isem.univ-montp2.fr\>, Francia.
+#### Traductor : Jorge A. Ahumada \<jahumada@usgs.gov\>,EE.UU.
+#### Año de publicación : 2003.
+#### Nivel : Básico.
+
