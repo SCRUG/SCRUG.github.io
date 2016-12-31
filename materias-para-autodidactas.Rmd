@@ -13,13 +13,13 @@ Esta pagina busca ser un punto de partida para aquellos compañeros que se estan
 
 # Libros para iniciar en R.
 
-+ ### [El arte de programar en R](ftp://cran.r-project.org/pub/R/doc/contrib/Santana_El_arte_de_programar_en_R.pdf)
++ [El arte de programar en R](ftp://cran.r-project.org/pub/R/doc/contrib/Santana_El_arte_de_programar_en_R.pdf)
 
 > #### Autores : Julio Sergio Santana y Efraín Mateos Farfán.
 #### Año de publicación : 2014.
 #### Nivel : Básico.
 
-+ ### [R para principiantes](ftp://cran.r-project.org/pub/R/doc/contrib/rdebuts_es.pdf)
++ [R para principiantes](ftp://cran.r-project.org/pub/R/doc/contrib/rdebuts_es.pdf)
 
 > #### Autor : Emmanuel Paradis \<paradis@isem.univ-montp2.fr\>, Francia.
 #### Traductor : Jorge A. Ahumada \<jahumada@usgs.gov\>,EE.UU.
