@@ -13,11 +13,13 @@ Esta pagina busca ser un punto de partida para aquellos compañeros que se está
 
 # Libros para iniciar en R.
 
+
 + [El arte de programar en R](ftp://cran.r-project.org/pub/R/doc/contrib/Santana_El_arte_de_programar_en_R.pdf)
 
 > #### Autores : Julio Sergio Santana y Efraín Mateos Farfán.
 #### Año de publicación : 2014.
 #### Nivel : Básico.
+#### Temática : Programación, Visualización de datos.
 
 + [R para principiantes](ftp://cran.r-project.org/pub/R/doc/contrib/rdebuts_es.pdf)
 
@@ -25,6 +27,28 @@ Esta pagina busca ser un punto de partida para aquellos compañeros que se está
 #### Traductor : Jorge A. Ahumada \<jahumada@usgs.gov\>,EE.UU.
 #### Año de publicación : 2003.
 #### Nivel : Básico.
+
+
+## Libros de Programación : 
+
++ [Introducción a R](https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
+
+> #### Autor : R Development Core Team.
+#### Año de publicación : 2000.
+#### Nivel : Intermedio.
+#### Temática : Programación, Visualización de datos, Estadistica.
+
++ [Advanced R](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
+
+> #### Autor : Hadley Wickham.
+#### Año de publicación : 2015.
+#### Nivel : Avanzado.
+#### Temática : Programación, Rendimiento, C++ en R.
+
+## Libros de visualización de datos.
+
+
+
 
 ***
 
