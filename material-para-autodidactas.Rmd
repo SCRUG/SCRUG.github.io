@@ -28,8 +28,15 @@ Esta pagina busca ser un punto de partida para aquellos compañeros que se está
 #### Año de publicación : 2003.
 #### Nivel : Básico.
 
++ [Curso R - introducción ( VIDEO)](https://www.youtube.com/watch?v=dpiApWbgSw8)
 
-## Libros de Programación : 
+> #### Autor : Juan José Gibaja
+#### Año de publicación : 2012.
+#### Nivel : Básico.
+
+***
+
+## Programación : 
 
 + [Introducción a R](https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
 
@@ -38,15 +45,46 @@ Esta pagina busca ser un punto de partida para aquellos compañeros que se está
 #### Nivel : Intermedio.
 #### Temática : Programación, Visualización de datos, Estadistica.
 
-+ [Advanced R](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
++ [Advance R](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
 
 > #### Autor : Hadley Wickham.
 #### Año de publicación : 2015.
 #### Nivel : Avanzado.
-#### Temática : Programación, Rendimiento, C++ en R.
+#### Temática : Programación, Rendimiento, C++ en R, POO en R.
 
-## Libros de visualización de datos.
 
++ [R videos (Lista de reproducción)](https://www.youtube.com/playlist?list=PLjTlxb-wKvXPqyY3FZDO8GqIaWuEDy-Od)
+
+> #### Autor : Roger Peng.
+#### Año de publicación : 2014.
+#### Nivel : Intermadio - Avanzado.
+#### Temática : Lectura de datos, Estructuras de control, Familia de funciones apply, Visualización de datos.
+
+
+
+## visualización de datos.
+
++ [Graficando usando [R] Basico(VIDEO)](https://www.youtube.com/watch?v=J_gNWxRG2JI)
+
+> #### Autor : Academiatica
+#### Año de publicación : 2014.
+#### Nivel : Básico.
+#### Temática : Visualización de datos. 
+
++ Gráficos  estadísticos  y mapas con R
+
+> #### Autor : Cástor Guisande Gonzáles, Antonio Vaamonde Liste.
+#### Año de publicación : 2009.
+#### Nivel : Avanzado.
+#### Temática : Visualización de datos.
+
+
++ [ggplot2:Elegant graphics for data analysis.](http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf)
+
+> #### Autor : Hadley Wickham.
+#### Año de publicación : 2009.
+#### Nivel : Avanzado.
+#### Temática : ggplot2, Visualización de datos, gramática de gráficos.
 
 
 
