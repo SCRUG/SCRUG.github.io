@@ -34,18 +34,33 @@ Titulo y repositorio | Incidentes abiertos | Participantes
 
 **Si vienes por primera vez**
 
-En el taller tratamos de acomodar todos los niveles. Así que aún si no has
+Todas las reuniones se hacen en linea por google hangouts, asi que no importa donde estes. Si vale la pena tomar en cuenta que solo hay espacio para 24 participantes en vivo. Los demas pueden participar viendo el [stream en vivo en Youtube Live](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ). Si te [registras en meetup.com](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/) para el evento te llegará el link al hangout correspondiente.
+
+En los talleres tratamos de acomodar todos los niveles. Así que aún si no has
 participado antes estas bienvenida/o. Puedes ver las presentaciones anteriores
 abajo (sigue los eslabones "Ver la presentación" al lado del anuncio de las
 sesiones.). 
 
-**Si vives lejos de Ciudad Quesada**
-
-Estamos haciendo streaming de las reuniones a travez de Google Hangouts. Si
-buscas la dirección para la reunión actual mira en los eventos en el grupo en
-[Facebook](https://www.facebook.com/groups/SanCarlosRUG/).
-
 ---
+
+### [23 de Febrero del 2017](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/236999560/)
+
+**Tema :: Introducción practica a la predicción de series de tiempo.**
+
+En esta reunion Carlos Agüero nos presentará de manera practica el concepto de serie de tiempo, tendencia, estacionalidad, aleatoriedad así como la creación de modelos predictivos y su validación (estimación del error) utilizando paquetes de R. 
+
+
+### [26 de Enero del 2017](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/236550171/) 
+
+[Ver la presentacion](https://youtu.be/AUE-yOFjerk?t=39) | [Bajar los datos y codigo ejemplo](https://s3-us-west-2.amazonaws.com/sancarlos-rug/2017-01-26/SC-RUG_ejemplos_enero_2017.zip)
+
+**Tema :: Leer y procesar datos en R**
+
+Alguna vez has tenido tantos datos en Excel que tu computador se puso muy lento? O haz tratado de hacer gráficas que son imposibles crear sin hacer trabajo a mano? O quizás has querido aplicar un análisis que Excel no permite hacer. 
+
+Muchos de nosotros hemos comenzado a trabajar con R por esas mismas razones, y en esta introducción, presentada por Frans van Dunné, vamos a ver de forma muy practica como tomar datos que están en excel y trabajarlos en R. 
+
+Como es la primera presentación del año, vamos a tomar un momento para todos los que llegan por primera vez de hablar de las herramientas básicas como RStudio. Además introducimos algunos conceptos básico como la instalación y uso de paquetes R. 
 
 ### [29 de Diciembre del 2016](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/236279749/) 
 
