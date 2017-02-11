@@ -1,0 +1,93 @@
+---
+title: "San Carlos R User Group"
+output: 
+  html_document: 
+    highlight: tango
+    theme: flatly
+---
+Bienvenido al Grupo de Usuarios R en San Carlos, Costa Rica. Si buscas unirte
+al grupo, o si quieres ver las reuniones futuras (o pasadas) mira aquí :
+[www.meetup.com/San-Carlos-R-User-Group/](http://www.meetup.com/San-Carlos-R-User-Group/). 
+
+Esta pagina busca ser un punto de partida para aquellos compañeros que se están iniciando en el fabuloso mundo de R así como un punto de referencia para usuarios con más experiencia que buscan profundizar en temas específicos, acá podrás encontrar links a diversos libros, artículos y vídeos que esperamos puedan ser de tu provecho.
+
+# Libros para iniciar en R.
+
+
++ [El arte de programar en R](ftp://cran.r-project.org/pub/R/doc/contrib/Santana_El_arte_de_programar_en_R.pdf)
+
+> #### Autores : Julio Sergio Santana y Efraín Mateos Farfán.
+#### Año de publicación : 2014.
+#### Nivel : Básico.
+#### Temática : Programación, Visualización de datos.
+
++ [R para principiantes](ftp://cran.r-project.org/pub/R/doc/contrib/rdebuts_es.pdf)
+
+> #### Autor : Emmanuel Paradis \<paradis@isem.univ-montp2.fr\>, Francia.
+#### Traductor : Jorge A. Ahumada \<jahumada@usgs.gov\>,EE.UU.
+#### Año de publicación : 2003.
+#### Nivel : Básico.
+
++ [Curso R - introducción ( VIDEO)](https://www.youtube.com/watch?v=dpiApWbgSw8)
+
+> #### Autor : Juan José Gibaja
+#### Año de publicación : 2012.
+#### Nivel : Básico.
+
+***
+
+## Programación : 
+
++ [Introducción a R](https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
+
+> #### Autor : R Development Core Team.
+#### Año de publicación : 2000.
+#### Nivel : Intermedio.
+#### Temática : Programación, Visualización de datos, Estadistica.
+
++ [Advance R](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
+
+> #### Autor : Hadley Wickham.
+#### Año de publicación : 2015.
+#### Nivel : Avanzado.
+#### Temática : Programación, Rendimiento, C++ en R, POO en R.
+
+
++ [R videos (Lista de reproducción)](https://www.youtube.com/playlist?list=PLjTlxb-wKvXPqyY3FZDO8GqIaWuEDy-Od)
+
+> #### Autor : Roger Peng.
+#### Año de publicación : 2014.
+#### Nivel : Intermadio - Avanzado.
+#### Temática : Lectura de datos, Estructuras de control, Familia de funciones apply, Visualización de datos.
+
+
+
+## visualización de datos.
+
++ [Graficando usando [R] Basico(VIDEO)](https://www.youtube.com/watch?v=J_gNWxRG2JI)
+
+> #### Autor : Academiatica
+#### Año de publicación : 2014.
+#### Nivel : Básico.
+#### Temática : Visualización de datos. 
+
++ Gráficos  estadísticos  y mapas con R
+
+> #### Autor : Cástor Guisande Gonzáles, Antonio Vaamonde Liste.
+#### Año de publicación : 2009.
+#### Nivel : Avanzado.
+#### Temática : Visualización de datos.
+
+
++ [ggplot2:Elegant graphics for data analysis.](http://moderngraphics11.pbworks.com/f/ggplot2-Book09hWickham.pdf)
+
+> #### Autor : Hadley Wickham.
+#### Año de publicación : 2009.
+#### Nivel : Avanzado.
+#### Temática : ggplot2, Visualización de datos, gramática de gráficos.
+
+
+
+***
+
+Si deseas agregar una nueva publicación a la lista no dudes en participar, intentemos todo lo posible dar a los autores de los libros, artículos o vídeos el reconocimiento adecuado por su obra, que éstas sean gratuitas y en caso de recomendar alguna publicación que no lo sea, de ser posible, adjuntar el link en donde se pueda comprar dicha publicación. 

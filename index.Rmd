@@ -68,7 +68,10 @@ Como es la primera presentación del año, vamos a tomar un momento para todos l
 
 Para finalizar el año nos reunimos para evaluar las respuestas a la encuesta que mandamos, y evaluamos las opciones para mejorar el formato en el 2017.
 
-Una de las propuestas sobre la mesa es incrementar la posibilidad de asistir remotamente, y ver grabaciones de las reuniones pasadas. Habrá espacio para discutir cualquier idea o propuesta que ere demasiado elaborada para el cuestionario.
+Una de las propuestas sobre la mesa es incrementar la posibilidad de asistir remotamente, y ver grabaciones de las reuniones pasadas. Habrá espacio para discutir cualquier idea o propuesta que era demasiado elaborada para el cuestionario.
+
+Como parte de las propuestas se presentó el crear un *repositorio de libros, artículos y vídeos* enfocados a autodidactas entusiastas de inicar en el mundo de R o reforsar sus conocimientos, esperamos puedas participar agregando materiales, puedes encontrar el material en el siguiente link [Material para autodidactas](http://sancarlos-rug.github.io/material-para-autodidactas.html)
+
 
 ### 24 Noviembre del 2016
 
