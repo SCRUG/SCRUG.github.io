@@ -15,9 +15,6 @@ arrancar con R y únete al grupo en
 [meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group) y lee
 noticias recientes en [Facebook](https://www.facebook.com/groups/SanCarlosRUG/).
 
-Ademas organizamos un Happy Hacking Hour cada Jueves a las 19:00. Estas reuniones 
-siempre son en linea, mira en Facebook, y pregunta en el chat como conectarte.
-
 ---
 
 ## Proyectos
