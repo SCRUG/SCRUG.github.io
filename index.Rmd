@@ -40,6 +40,26 @@ sesiones.).
 
 ---
 
+### [27 de Abril del 2017](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/238806826/) | [Ver la Presentación](https://rpubs.com/ronnyhdez/271410a)
+
+**Tema:: Comparaciones entre grupos con R**
+
+Un objetivo común de la aplicación de estadísticas al análisis de datos son las comparaciones entre grupos. Esto pueden ser grupos que se definieron en el diseño experimental (en por ejemplo experimentos de mercadeo o ciencia).
+
+En la presentación de Ronny Hernandez sobre comparaciones entre grupos, hablará de herramientas para hacer comparaciones que están disponibles en R. Estos incluyen pruebas estadísticas como t.test y ANOVA para comparar grupos y hacer inferencias con nuestros datos.
+
+Ronny Hernandez es fundador de la organización Brenesii. Entre sus proyectos de investigación el principal se enfoca en el análisis de la complejidad estructural a partir de imágenes digitales, en bosques de Osa. Ronny es estudiante de biología tropical (IV año) y asistente del LEFET (Laboratorio de Ecología Funcional y Ecosistemas Tropicales) de la Escuela de ciencias biológicas de la UNA.
+
+
+
+### [6 de Abril del 2017](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/237912429/)
+
+**Tema:: Tidyverse: una breve introducción**
+
+R es, per se, un instrumento único para el análisis de información. Este papel se acrecenta en gran medida con la ayuda de la enorme cantidad de paquetes desarrollados para potenciar la plataforma. Una de las fuerzas en esta dirección son los paquetes desarrollados por Hadley Wickham, hoy llamado Tidyverse. Para este expositor hay un antes y un despues en el desarrollo de R, cuando se considera el Tidyverse. En esta breve introducción, veremos algunas de las fortalezas del uso de este conjunto de paquetes, las diferencias entre un enfoque tradicional de redacción de scripts y el tidyverse todo usando datos de CR.
+
+Michael Herradora es analista de datos en Grupo Purdy Motor. Michael es Sociólogo e investigador egresado de la Facultad Latinoamericana de Ciencias Sociales. Tiene una amplia experiencia en estadísticas y ingenieria de datos. Ademas de geek es linuxero. 
+
 ### [23 de Febrero del 2017](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/236999560/)
 
 **Tema :: Introducción practica a la predicción de series de tiempo.**
