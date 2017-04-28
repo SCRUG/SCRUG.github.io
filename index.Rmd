@@ -40,7 +40,7 @@ sesiones.).
 
 ---
 
-### [27 de Abril del 2017](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/238806826/) | [Ver la Presentación](https://rpubs.com/ronnyhdez/271410a)
+### [27 de Abril del 2017](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/238806826/) | [Ver la Presentación](https://rpubs.com/ronnyhdez/271410)
 
 **Tema:: Comparaciones entre grupos con R**
 
