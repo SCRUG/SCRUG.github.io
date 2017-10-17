@@ -6,17 +6,27 @@ output:
     theme: flatly
 ---
 
-Las reuniones del San Carlos RUG se organizan cada último jueves del mes. Te
-invitamos a proponer charlas y talleres, o temas de interés. Así nos das la
-oportunidad de compartir con tus experiencias, ver paquetes que estés
-desarrollando, o proyectos en los cuales aplicas R. Mira la [introducción y
-listado de recursos](http://sancarlos-rug.github.io/introduccion.html) para
-arrancar con R y únete al grupo en
-[meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group) y lee
+Quieres participar? Ven a la siguiente reunion del San Carlos RUG. Las
+organizamos cada último jueves del mes de 19:00 a 20:00 (hora tica UTC-6). Las
+reuniones son en linea para que sea fácil asisistir, aún si no estas en San
+Carlos (o Costa Rica).
+
+Mira la [introducción y listado de recursos](http://sancarlos-rug.github.io/introduccion.html) para
+arrancar con R y únete al grupo en [meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group) y lee
 noticias recientes en [Facebook](https://www.facebook.com/groups/SanCarlosRUG/).
+
+**Si vienes por primera vez**
+
+Todas las reuniones se hacen en linea, asi que no importa donde estes. Si vale la pena tomar en cuenta que solo hay espacio para 24 participantes en vivo. Los demas pueden participar viendo el [stream en vivo en Youtube Live](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ). Si te [registras en meetup.com](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/) para el evento te llegará el link al hangout correspondiente.
+
+En los talleres tratamos de acomodar todos los niveles. Así que aún si no has
+participado antes estas bienvenida/o. Puedes ver las presentaciones anteriores
+abajo (sigue los eslabones "Ver la presentación" al lado del anuncio de las
+sesiones.). 
 
 ---
 
+<!--
 ## Proyectos
 
 Titulo y repositorio | Incidentes abiertos | Participantes 
@@ -27,18 +37,66 @@ Titulo y repositorio | Incidentes abiertos | Participantes
 
 ---
 
+-->
+
+
 ## Agenda de reuniones
 
-**Si vienes por primera vez**
 
-Todas las reuniones se hacen en linea por google hangouts, asi que no importa donde estes. Si vale la pena tomar en cuenta que solo hay espacio para 24 participantes en vivo. Los demas pueden participar viendo el [stream en vivo en Youtube Live](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ). Si te [registras en meetup.com](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/) para el evento te llegará el link al hangout correspondiente.
+### [28 Septiembre 2017](https://www.meetup.com/es-ES/preview/San-Carlos-R-User-Group/events/qtjlkmywmblc) | [Ver presentación](https://www.youtube.com/watch?v=mm7mvKsdDzk)
 
-En los talleres tratamos de acomodar todos los niveles. Así que aún si no has
-participado antes estas bienvenida/o. Puedes ver las presentaciones anteriores
-abajo (sigue los eslabones "Ver la presentación" al lado del anuncio de las
-sesiones.). 
+**Tema:: ​R-Ladies: Promoviendo la diversidad de Género en la comunidad R**
 
----
+R-ladies es una organización mundial para promover la diversidad de género en la comunidad de R. Al igual que UseR tiene meetups con usuarios en distintas partes del mundo, y ha ido creciendo con usuarias de todas las edades y de todos los rincones del mundo. PyLadies es una organización similar, pero en este caso para mujeres que programan en Python.
+
+En esta presentación, se tratará de resumir los propósitos y objetivos de ambas organizaciones, así como ejemplos de sus charlas y eventos, con el objetivo de incentivar la creación de un grupo similar para Costa Rica: R-ladies San José.
+
+La presentación estará a cargo de Marcela Alfaro Córdoba: profesora Invitada de la Escuela de Estadística, Universidad de Costa Rica. La profesora se reincorporó a la UCR este año, después de finalizar sus estudios doctorales en estadística en la Universidad Estatal de Carolina del Norte (NC State). Una de sus metas personales es incentivar el uso de lenguajes de programación abiertos para la enseñanza y la práctica profesional de la estadística en Costa Rica, así como motivar y servir de mentora a poblaciones estudiantes infrarrepresentadas en el mundo de la programación.
+
+
+### [31 de Agosto del 2017](https://www.meetup.com/es-ES/preview/San-Carlos-R-User-Group/events/qtjlkmywlbpc) | [Ver presentación](https://www.youtube.com/watch?v=zIFCSTP3Kaw)
+
+**Tema:: Introducción a los Grafos con igraph**
+
+En esta presentación Mauricio Leandro nos va hablar sobre Grafos. El contenido de la presentación es el siguiente:
+
+1- Historia
+
+2- ¿Qué es un grafo?
+
+3- Grafos dirigidos
+
+4- Grafos no dirigidos
+
+5- Usos de los grafos en al vida cotidiana
+
+6- Tratamiento de grafos en R con la librería igraph
+
+Juan Mauricio Leandro Jiménez es licenciado en Ingeniería en Sistemas con énfasis en al Gestión de T.I., y tiene mas de 10 años de experiencia como analista de sistemas. TIene un amplio conocimiento en SQL y PL/SQL. A través de estos años se especializó en el manejo de datos con diferentes motores como ORACLE, SQL Server, MySql entre otros, Actualmente desempeña el cargo de CDO en Coopeservidores y se especializa en el tratamiento de datos con diferentes lenguajes como R y Python.
+
+La relación de Juan Mauricio con el lenguaje R es que diariamente lo utiliza para el análisis de datos y construcción de diferentes modelos predictivos, ademas de conectarlo también con diferentes visualizadores de datos como Power Bi y Tableau para aprovechar las bondades de ambas herramientas.
+
+
+### [27 de Julio del 2017](https://www.meetup.com/es-ES/preview/San-Carlos-R-User-Group/events/qtjlkmywjbmc) | [Ver la presentación](https://www.youtube.com/watch?v=uIwAikjq8N8)
+
+**Tema:: La incorporación de R desde la formación temprana en Estadística basado en el paquete mosaic**
+
+El proyecto MOSAIC es una iniciativa que busca incorporar R y RStudio como una herramienta que sea utilizada desde cursos introductorios de Estadística. La idea de esta práctica consiste en mejorar la estadística en su ámbito conceptual durante la enseñanza, en lugar de enfocarla en cálculos que se pueden volver tediosos; además de que R ofrece una oportunidad para generar gráficos de muy buena calidad. Lo anterior se logra mediante una simplificación que han generado de funciones básicas y de simulación, además de que da un enfoque en la simulación comparándolo con el enfoque clásico de las fórmulas basadas en distribuciones de probabilidad.
+
+Además de lo ya mencionado, el paquete mosaic busca dar una visión de posibles notaciones en los comandos de R que preparan al estudiante para cuando se tenga que enfrentar a ellas en cursos de modelaje de datos y da una pequeña introducción a paquetes gráficos que requieren un manejo más minucioso como ggplot2.
+
+Las guías educativas utilizadas para aprender a usar el paquete e incorporarlo educativamente se encuentran en inglés, por lo que se trabaja en traducirlas para volverlas un material de apoyo obligatorio para cursos de Estadística. Además de traducirlas, puesto que mosaic es un proyecto abierto se busca retroalimentar y expandir el alcance educativo de este mismo.
+
+La presentación esta a cargo de Francisco Javier Jara: un estudiante de Estadística y Matemática en la Universidad de Costa Rica. Como proyecto de Práctica Profesional para finalizar el bachillerato en Estadística junto con el profesor Agustín Gómez participa en la confección de una propuesta educativa, basada en MOSAIC Project, para la incorporación de R y RStudio en la formación en la escuela de Estadística de la Universidad de Costa Rica. Actualmente se encuentra en el proceso de traducir los manuales que generó MOSAIC Project para sus manuales. Inició a utilizar R durante su segundo año de universidad y siempre le ha despertado una gran curiosidad el mismo, pues busca incorporarlo incluso en cursos que no es el software principalmente utilizado. Francisco se considera un usuario rookie, pero esperando algún día ser un usuario bastante experimentado.
+
+
+### [25 de Mayo del 2017](https://www.meetup.com/es-ES/preview/San-Carlos-R-User-Group/events/qtjlkmywhbhc) | [Ver la presentación](https://www.youtube.com/watch?v=jeAH54OEIMY)
+
+**Tema::  Desarrollo de algoritmos para la aceleración de análisis de negocios**
+
+En el mundo de los negocios nos solemos encontrar con clientes que por su poca exposición al mundo de la ciencia de datos se preocupan de que que un análisis requiera del consumo de muchos recursos (variadas reuniones, tiempo, y aprobaciones directivas). Es así como la propuesta de crear paquetes para acelerar los análisis típicos se gesto. En este caso particular vamos a conversar de uno de los casos típicos, segmentación (clustering).La segmentación típica se considera un proceso relativamente sencillo, y lo es matemáticamente hablando, y también desde el punto de vista de programación. Pero en el mundo de los negocios no basta con elaborar un modelo de segmentación una vez y listo, sino que cada vez que se elabora un modelo se requieren de varios pasos. Es entonces donde elaborar algoritmos que reduzcan el tiempo efectivo en la consulta ayudan a poner al cliente de nuestro lado, por ejemplo, al utilizar funciones que nos ayudan a ahorrarnos pasos iterativos donde los expertos del cliente "meten cuchara" (como dirían los ticos) y alargan la duración de cada iteración. El desarrollo de estos algoritmos suele dividirse en 3 etapas principales, definición del "trabajo típico", elaboración del flujo de trabajo, y finalmente definición de la optimización necesaria para la reducción de miseraciones.
+
+La presentación nos la presenta Andrés Ramírez Gutiérrez, 27, graduado en estadística y geografía de la UCR, donde se graduó de la primera en 2014. Llevó los cursos que le generaban mayor interés de la segunda, mas nunca le dio clausura. Desde antes de graduarse trabaja para McKinsey&Company, una multinacional dedicada a la consultoría especializada o "tailor fit consulting". Durante ese tiempo se desempeño durante su año de practica profesional, y el año y medio subsecuente, a elaborar modelos en las áreas de mercadeo y fijación de precios. A finales del año pasado cambio de rol a un equipo enfocado en el análisis de datos geográficos, elaborando modelos de estadística espacial. Logrando así combinar sus dos afinidades universitarias en su puesto actual, donde mantiene cierta relación con los departamentos de mercadeo de distintos clientes, así como también se desempeña en otras áreas como operaciones y elaboración de rutas (en menor medida), y agricultura. Inicio con R al inicio de su vida universitaria, mientras que llevaba los cursos de estadística, y se volvió versátil programando, pues cuando un profesor no utilizaba R, aprendía a su forma, y a la vez, investigaba como elaborar el mismo análisis en código abierto. Recientemente se introdujo en el mundo de la elaboración de paquetes de R, en donde tiene 3 proyectos personales que avanzan lentamente, y espera lograr efectivamente finalizarlos para finales de este año. Andrés se considera un usuario avanzado, pero no experto.
 
 ### [27 de Abril del 2017](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/238806826/) | [Ver la Presentación](https://rpubs.com/ronnyhdez/271410)
 
