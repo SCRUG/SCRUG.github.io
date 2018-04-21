@@ -1,25 +1,24 @@
 ---
-title: "San Carlos R User Group"
+title: "SCRUG (San Carlos R User Group)"
 output: 
   html_document: 
     highlight: tango
     theme: flatly
 ---
 
-Quieres participar? Ven a la siguiente reunion del San Carlos RUG. Las
+El SCRUG organiza reuniones **en linea** sobre R. La participación es gratis para todos los interesados, y se organizan desde Costa Rica para todos los interesados en R en Latinoamerica.
+
+[Quieres participar?](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/) Ven a la siguiente reunion del San Carlos RUG. Las
 organizamos cada último jueves del mes de 19:00 a 20:00 (hora tica UTC-6). Las
 reuniones son en linea para que sea fácil asisistir, aún si no estas en San
-Carlos (o Costa Rica).
+Carlos (o Costa Rica). Anunciamos las reuniones [a travez de Meetup.com, y te agradecemos si anuncias tu participación allí](http://www.meetup.com/es-ES/San-Carlos-R-User-Group).
 
-Mira la [introducción y listado de recursos](http://sancarlos-rug.github.io/introduccion.html) para
-arrancar con R y únete al grupo en [meetup.com](http://www.meetup.com/es-ES/San-Carlos-R-User-Group) y lee
-noticias recientes en [Facebook](https://www.facebook.com/groups/SanCarlosRUG/).
 
 **Si vienes por primera vez**
 
 Todas las reuniones se hacen en linea, asi que no importa donde estes. Si vale la pena tomar en cuenta que solo hay espacio para 24 participantes en vivo. Los demas pueden participar viendo el [stream en vivo en Youtube Live](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ). Si te [registras en meetup.com](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/) para el evento te llegará el link al hangout correspondiente.
 
-En los talleres tratamos de acomodar todos los niveles. Así que aún si no has
+Mira la [introducción y listado de recursos](http://sancarlos-rug.github.io/introduccion.html) para arrancar con R. En los talleres tratamos de acomodar todos los niveles. Así que aún si no has
 participado antes estas bienvenida/o. Puedes ver las presentaciones anteriores
 abajo (sigue los eslabones "Ver la presentación" al lado del anuncio de las
 sesiones.). 
@@ -43,9 +42,102 @@ Titulo y repositorio | Incidentes abiertos | Participantes
 ## Agenda de reuniones
 
 
+### [31 de Mayo de 2018](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/zssrgpyxhbpc/)
+
+**Tema: por anunciar**
+
+### [26 de Abril 2018](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/zssrgpyxgbjc/)
+
+**Tema: Como crear Dashboards con Shiny**
+
+El paquete Shiny ha sido una innovación en R importante porque nos permite crear productos de datos que permiten a usuarios no técnicos interactuar con datos. Es un entorno muy flexible para presentar datos como gráficos y tablas, o inclusive para gestionar procesos de análisis. Ejemplos de lo últimos son por ejemplo: permitir al usuario cambiar parámetros, o hacer downloads de resultados, o uploads de datos por analizar.
+
+Para ver ejemplos de lo que se puede lograr vale la pena mirar la collección de ejemplos que mantiene RStudio aqui: https://shiny.rstudio.com/gallery/.
+
+En esta reunión vamos a seguir de una forma muy práctica todo el proceso desde una idea para presentar datos de forma interactiva en un dashboard, hasta desplegar este dashboard en línea para que lo puedan acceder tus usuarios. Lo hacemos así para cerrar la brecha entre los ejemplos y documentación que está disponible en línea y la práctica de trabajar con Shiny en RStudio.
+
+El código del ejemplo que usamos va estar disponible de antemano para que todos los participantes lo puedan seguir de forma práctica y poner sus preguntas de una vez en la reunión. El objetivos es que después de la reunión puedas empezar con un proyecto de forma independiente para implementar tu propio dashboard!
+
+Mandaremos el código ejemplo a los que se han inscrito para participar unos días antes de la reunión. Pero no hace falta estudiarlo para participar! Mostraremos cómo dar todos los pasos y aprovechamos para introducir los conceptos claves que necesitas para trabajar con Shiny.
+
+Al final mostramos como llevar tu app en Shiny a algo que funciona en línea usando shinyapps.io.
+
+Esperamos verte en la siguiente reunión!
+
+### [29 de Marzo](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/zssrgpyxfbmc/)
+
+**Tema: Trabajar con Tiempo en R**
+
+La medición del tiempo así como el uso de datos que hagan referencia a este es algo que puede ser particular ya que existen meses con diferente cantidad de días, en diferentes países y regiones el formato de fechas se emplea de manera distinta o existen años bisiestos y además para hacer cálculos podemos hacerlo en días, meses, segundos, horas o años.
+
+Con esta complejidad podríamos pensar que usar datos de fechas para hacer análisis es algo difícil, sin embargo no lo es. R tiene un sistema robusto para poder lidiar con datos que representan fechas y horas de una manera sencilla.
+
+Acompáñanos en la reunión del San Carlos R-user group donde estaremos aprendiendo sobre el manejo de datos de fechas y horas en R con el paquete base y con lubridate.
+
+-Tipo y clase del tiempo en R
+-Sistema POSIX
+-Leer fechas y horas desde archivos
+-Cálculos con el tiempo
+-Generación de secuencias
+-Paquete Lubridate
+
+### [22 de Febrero 2018](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/zssrgpyxdbdc/)
+
+**Tema: Aprende a correr Rstudio Server y Shiny Server sobre un Raspberry Pi**
+
+El objetivo de la sesión será ver cómo instalar un entorno de análisis y visualización de datos con las herramientas R Studio y Shiny Server en la famosa placa de bajo coste Raspberry Pi. Vamos a ver cómo preparar la rpi para que ajustarla a los requisitos de memoria y librerías necesarios para montar nuestro entorno de procesado y visualización de datos. La presentación esta a cargo de Jesus Armand Calejero, Chief Data Scientist de Fundalia. Jesus es un estadistico egresado de la Universidad de Granada y la Universidad de Valladolid con una amplia experiencia como cientifico de datos. Organizamos las reuniones del Grupo de Usuarios R en linea, y por lo tanto no hay cupo para mas que 25 participantes. Mas información sobre la agenda en nuestro sitio web: http://sancarlos-rug.github.io/
+
+### [25 de Enero 2018](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/qmtnfpyxcbhc/)
+
+**Tema: Crear Blogs y Websites en R con Blogdown**
+
+La versatilidad de las herramientas disponibles en el mundo R sigue incrementando rápidamente. Sobretodo la parte de la comunicación sobre lo que logramos hacer analizando datos esta bajo un auge de inicativas. Entre ellas esta Blogdown, un paquete desarrollado por Yihui Xie para (re-)usar Rmarkdown y presentarlos en un website estático.
+
+Como esto es lo que estamos usando para crear el website de www.ConectaR2019.org, una conferencia sobre R que va tener lugar en Costa Rica en Enero del 2019, escuchamos que hay interés en saber como funciona. Porque hace la labor (y la diversión!) de compartir lo que estás haciendo con datos y con R mucho más fácil, y pone un blog o website bonito al alcance de todos los que estamos trabajando con R.
+
+La reunión va ser informal enfocado en mostrar de forma practica como arrancar para crear un website con R y publicarlo en la web. Si tienes preguntas anotalas de antemano para que no se nos pasen. Después de la reunión espero que todos estemos cómodos para iniciar un proyecto propio.
+
+1
+### [28 de Diciembre](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/qtjlkmywqblc/)
+
+**Tema: Reunión de Final de Año**
+
+Llegamos a otro final de año con el Grupo de Usuarios R! Asi que es tiempo para evaluar como nos fué y ver que es del interés de todos ustedes para organizar el año entrante.
+
+Cualquier propuesta de agenda que tengas mándala por favor por email. Me parece que sería bueno hablar por lo menos de los siguiente:
+
+• Evaluar los temas de las reuniones anteriores, plantear temas para el 2018.
+
+• Evaluar el formato y el medio de las reuniones.
+
+• Evaluar el horario y duración
+
+Ademas de esto añadimos los temas que ustedes proponen antes, o durante la reunión. El objetivo es organizar una serie de reuniones en el 2018 que sea útiles para ustedes atender.
+
+
+### [30 de Noviembre 2017](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/qtjlkmywpbnc/)
+
+**Tema: Analysis reproducible con R en contenedores Docker**
+
+Vamos a hablar sobre cómo se pueden usar contenedores Docker para hacer poder lograr hacer análisis reproducible. El análisis reproducible es un tema recurrente en discusiones sobre mejores prácticas en la programación en R, es el análisis reproducible. Con eso no referimos a la posibilidad de poder repetir exactamente el análisis que un compañero ha hecho, o que nosotros mismos hemos hecho en el pasado.
+
+El reto de hacer hacer reproducible un análisis es que necesitamos fijar todos los elementos del entorno técnico, no solamente los paquetes R que se usan, pero también el sistema operativo sobre el cual trabajamos. Esto también es clave cuando usamos código R en producción, ya que una actualización a uno de los paquetes R que usamos puede generar errores que no siempre podemos anticipar.
+
+
+### [26 de Octubre 2017](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/events/qtjlkmywnbjc/) 
+
+**Tema:: Analysis reproducible con R en contenedores Docker**
+
+En esta reunión vamos a hablar sobre cómo se pueden usar contenedores Docker para hacer poder lograr hacer análisis reproducible. El análisis reproducible es un tema recurrente en discusiones sobre mejores prácticas en la programación en R, es el análisis reproducible. Con eso no referimos a la posibilidad de poder repetir exactamente el análisis que un compañero ha hecho, o que nosotros mismos hemos hecho en el pasado.
+
+El reto de hacer hacer reproducible un análisis es que necesitamos fijar todos los elementos del entorno técnico, no solamente los paquetes R que se usan, pero también el sistema operativo sobre el cual trabajamos. Esto también es clave cuando usamos código R en producción, ya que una actualización a uno de los paquetes R que usamos puede generar errores que no siempre podemos anticipar.
+
+En esta reunión Frans van Dunné va a presentar como trabaja con contenedores tanto para compartir entornos de análisis como para llevar código a producción. Después de explicar lo que son contenedores Docker y como funciona, vamos a crear contenedores específicamente para códig R paso a paso. El objetivo es que el código y los métodos que presentamos sirvan de ejemplo para cuando tengas la necesidad, o la curiosidad para trabajar con contenedores.
+
+
 ### [28 Septiembre 2017](https://www.meetup.com/es-ES/preview/San-Carlos-R-User-Group/events/qtjlkmywmblc) | [Ver presentación](https://www.youtube.com/watch?v=mm7mvKsdDzk)
 
-**Tema:: ​R-Ladies: Promoviendo la diversidad de Género en la comunidad R**
+**Tema:: R-Ladies: Promoviendo la diversidad de Género en la comunidad R**
 
 R-ladies es una organización mundial para promover la diversidad de género en la comunidad de R. Al igual que UseR tiene meetups con usuarios en distintas partes del mundo, y ha ido creciendo con usuarias de todas las edades y de todos los rincones del mundo. PyLadies es una organización similar, pero en este caso para mujeres que programan en Python.
 
