@@ -1,4 +1,4 @@
-# SanCarlos-RUG.github.io
+# SCRUG - Grupo de Usuarios R para Latinoamerica
 
 [Página de bienvenida](http://sancarlos-rug.github.io/) para el grupo de usarios R de San Carlos (Costa Rica).
 
