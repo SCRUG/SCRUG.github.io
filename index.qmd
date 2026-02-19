@@ -1,0 +1,26 @@
+---
+title: "Bienvenidos al San Carlos R User Group (SCRUG)"
+---
+
+¡Hola y bienvenido! 
+
+Somos un grupo de entusiastas de R en la Zona Norte de Costa Rica. Nos reunimos para aprender, compartir y colaborar en proyectos relacionados con el análisis de datos y el lenguaje de programación R.
+
+## ¿Qué hacemos?
+
+Organizamos reuniones, talleres y eventos para:
+
+*   **Aprender R:** Desde los conceptos básicos hasta temas avanzados.
+*   **Compartir conocimiento:** Presentamos nuestros proyectos y aprendemos de los demás.
+*   **Colaborar:** Trabajamos juntos en proyectos de código abierto y análisis de datos.
+*   **Crecer la comunidad:** Creamos un espacio amigable y de apoyo para todos los interesados en R.
+
+## ¿Cómo participar?
+
+¡Es muy fácil! Puedes unirte a nosotros de las siguientes maneras:
+
+*   **Unete a nuestro grupo en Meetup:** [San Carlos R User Group en Meetup.com](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/) para enterarte de nuestras próximas reuniones.
+*   **Visita nuestro canal de YouTube:** [Canal de YouTube de SCRUG](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ) donde puedes ver grabaciones de nuestras reuniones pasadas.
+*   **Explora nuestro material de aprendizaje:** [Material para autodidactas](material-para-autodidactas.html) para empezar a aprender R a tu propio ritmo.
+
+No importa si eres un principiante o un experto, ¡todos son bienvenidos!

@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "San Carlos R User Group"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: reuniones-pasadas.qmd
+        text: Reuniones Pasadas
+      - href: introduccion.qmd
+        text: Introducción a R
+      - href: material-para-autodidactas.qmd
+        text: Material para Autodidactas
+      - href: fuentes-de-datos.qmd
+        text: Fuentes de Datos
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

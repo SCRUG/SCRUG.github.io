@@ -1,9 +1,5 @@
 ---
-title: "San Carlos R User Group"
-output: 
-  html_document: 
-    highlight: tango
-    theme: flatly
+title: "Introducción a R"
 ---
 
 Bienvenido al Grupo de Usuarios R en San Carlos, Costa Rica. Si buscas unirte
@@ -30,7 +26,7 @@ adicionales, pero siempre se asume que tengas instalado como mínimo lo siguient
 install.packages("readxl")
 
 # Para manipular datos: dplyr, tidyr
-install.packages("dplyr", "tidyr")
+install.packages(c("dplyr", "tidyr"))
 
 # Para visualizar datos: ggplot2 
 install.packages("ggplot2")
@@ -138,4 +134,3 @@ paquetes en
   la par de sus definiciones.
 * [lintr](https://github.com/jimhester/lintr) - Análisis de código para hacer
   un control del estilo usado.
-
