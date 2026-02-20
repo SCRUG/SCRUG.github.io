@@ -20,41 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -164,16 +129,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#instalar-r-para-participar-en-los-talleres" id="toc-instalar-r-para-participar-en-los-talleres" class="nav-link active" data-scroll-target="#instalar-r-para-participar-en-los-talleres">Instalar R (para participar en los talleres)</a></li>
   <li><a href="#recursos-para-aprender-r" id="toc-recursos-para-aprender-r" class="nav-link" data-scroll-target="#recursos-para-aprender-r">Recursos para aprender R</a>
   <ul class="collapse">
-  <li><a href="#hojas-de-referencia-en-español" id="toc-hojas-de-referencia-en-español" class="nav-link" data-scroll-target="#hojas-de-referencia-en-español">Hojas de Referencia en español</a></li>
-  <li><a href="#hojas-de-referencia-en-inglés" id="toc-hojas-de-referencia-en-inglés" class="nav-link" data-scroll-target="#hojas-de-referencia-en-inglés">Hojas de Referencia en inglés</a></li>
+  <li><a href="#algunas-hojas-de-referencia-básicas-en-español" id="toc-algunas-hojas-de-referencia-básicas-en-español" class="nav-link" data-scroll-target="#algunas-hojas-de-referencia-básicas-en-español">Algunas hojas de referencia básicas en español</a></li>
   </ul></li>
-  <li><a href="#lista-muy-abreviada-de-cosas-fabulosas" id="toc-lista-muy-abreviada-de-cosas-fabulosas" class="nav-link" data-scroll-target="#lista-muy-abreviada-de-cosas-fabulosas">Lista (muy) abreviada de cosas fabulosas</a>
-  <ul class="collapse">
-  <li><a href="#manipulación-de-datos" id="toc-manipulación-de-datos" class="nav-link" data-scroll-target="#manipulación-de-datos">Manipulación de datos</a></li>
-  </ul></li>
-  <li><a href="#graphic-displays" id="toc-graphic-displays" class="nav-link" data-scroll-target="#graphic-displays">Graphic Displays</a></li>
-  <li><a href="#web-technologies-and-services" id="toc-web-technologies-and-services" class="nav-link" data-scroll-target="#web-technologies-and-services">Web Technologies and Services</a></li>
-  <li><a href="#r-development" id="toc-r-development" class="nav-link" data-scroll-target="#r-development">R Development</a></li>
+  <li><a href="#lista-curada-por-tipo-de-tarea" id="toc-lista-curada-por-tipo-de-tarea" class="nav-link" data-scroll-target="#lista-curada-por-tipo-de-tarea">Lista curada por tipo de tarea</a></li>
   </ul>
 </nav>
     </div>
@@ -204,25 +162,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="instalar-r-para-participar-en-los-talleres" class="level2">
 <h2 class="anchored" data-anchor-id="instalar-r-para-participar-en-los-talleres">Instalar R (para participar en los talleres)</h2>
 <p>Para participar en los talleres necesitas tener instalado una versión reciente de <a href="https://cran.rstudio.com/">R</a> y de <a href="https://www.rstudio.com/products/rstudio/download/">RStudio Desktop</a>. No importa si usas MS Windows, Mac OSX or Linux en tu computador, para cada uno hay versiones correspondientes de los programas.</p>
-<p>Una vez que tienes R y RStudio Desktop instalado puedes correr el siguiente código para tengas el mínimo de paquetes necesarios para seguir las introducciones. En los anuncios de cada taller y charla se mencionaran paquetes adicionales, pero siempre se asume que tengas instalado como mínimo lo siguiente:</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Para leer datos de Excel: readxl</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"readxl"</span>)</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Para manipular datos: dplyr, tidyr</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="fu">c</span>(<span class="st">"dplyr"</span>, <span class="st">"tidyr"</span>))</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Para visualizar datos: ggplot2</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"ggplot2"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-</div>
 </section>
 <section id="recursos-para-aprender-r" class="level2">
 <h2 class="anchored" data-anchor-id="recursos-para-aprender-r">Recursos para aprender R</h2>
 <p>Hay muchos recursos sobre R y bastantes en español. El recurso más recomendado actualmente es el libro <a href="https://es.r4ds.hadley.nz/">R para Ciencia de Datos</a>, una guía moderna, completa y gratuita.</p>
 <p>Quizás la forma más interactiva (divertida) para comenzar es usando <a href="https://swirlstats.com/students.html">swirl</a> a través de su traducción al español <a href="https://github.com/alcideschaux/swirl-spa">swirl-spa</a>. Esto te dará un buen punto de partida para empezar a explorar R y acostumbrarte a la sintaxis del lenguaje desde la propia consola.</p>
 <p>Pero posiblemente lo mas importante es que busques un problema para analizar que te guste o que sea necesario para tu trabajo/estudio/saludo mental. Mantenemos una <a href="fuentes-de-datos.html">pagina con fuentes de datos</a> donde coleccionamos datos sobre San Carlos, Costa Rica, y recursos mas a internacional.</p>
-<section id="hojas-de-referencia-en-español" class="level3">
-<h3 class="anchored" data-anchor-id="hojas-de-referencia-en-español">Hojas de Referencia en español</h3>
+<section id="algunas-hojas-de-referencia-básicas-en-español" class="level3">
+<h3 class="anchored" data-anchor-id="algunas-hojas-de-referencia-básicas-en-español">Algunas hojas de referencia básicas en español</h3>
 <ul>
 <li><a href="https://rstudio.github.io/cheatsheets/translations/spanish/data-transformation-spanish.pdf">Transformación de Datos</a></li>
 <li><a href="https://rstudio.github.io/cheatsheets/translations/spanish/quarto-spanish.pdf">Quarto</a></li>
@@ -231,64 +178,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li><a href="https://rstudio.github.io/cheatsheets/translations/spanish/ggplot2-spanish.pdf">Visualización de Datos</a></li>
 </ul>
 </section>
-<section id="hojas-de-referencia-en-inglés" class="level3">
-<h3 class="anchored" data-anchor-id="hojas-de-referencia-en-inglés">Hojas de Referencia en inglés</h3>
-<p><em>Avisanos si sabes, o has hecho una traducción</em></p>
+</section>
+<section id="lista-curada-por-tipo-de-tarea" class="level2">
+<h2 class="anchored" data-anchor-id="lista-curada-por-tipo-de-tarea">Lista curada por tipo de tarea</h2>
 <ul>
-<li><a href="http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf">R Reference Card 2.0</a> - Material del libro <a href="https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf">R for Beginners</a>.</li>
-<li><a href="http://www.rdatamining.com/docs/R-refcard-data-mining.pdf">Data Mining Refcard</a> - Hoja de referencia para minería de datos en R.</li>
-<li><a href="http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf">Regression Analysis Refcard</a> - Hoja de referencia para análisis de regresión en R.</li>
-</ul>
-</section>
-</section>
-<section id="lista-muy-abreviada-de-cosas-fabulosas" class="level2">
-<h2 class="anchored" data-anchor-id="lista-muy-abreviada-de-cosas-fabulosas">Lista (muy) abreviada de cosas fabulosas</h2>
-<p>Hay una lista de cosas fabulosas de R llamada <a href="https://github.com/qinwf/awesome-R">awesome-r</a>. Es un buen recurso para explorar que mas hay. Aquí presentamos un breve resumen, para hacer resaltar lo que consideramos son los mas comunes (no necesariamente lo mas fabuloso). Mira la <a href="https://github.com/qinwf/awesome-R">la lista original</a> para ver muchas mas cosas por descubrir. Y si no te es suficiente, mira la lista completa de paquetes en <a href="https://cran.r-project.org/web/packages/available_packages_by_name.html">CRAN</a>.</p>
-<section id="manipulación-de-datos" class="level3">
-<h3 class="anchored" data-anchor-id="manipulación-de-datos">Manipulación de datos</h3>
-<p><em>Paquetes para preparar datos.</em></p>
-<ul>
-<li><a href="https://github.com/hadley/dplyr">dplyr</a> - Manipulación de <em>data frames</em> veloz y búsquedas en bases de datos.</li>
-<li><a href="https://github.com/Rdatatable/data.table">data.table</a> - Manipulación de datos en una sintaxis breve y flexible.</li>
-<li><a href="https://github.com/hadley/reshape">reshape2</a> - Reorganizar, remodelar y agregar datos.</li>
-<li><a href="https://github.com/hadley/readr">readr</a> - Leer datos en forma de tabla a R.</li>
-<li><a href="https://github.com/hadley/haven">haven</a> - Métodos para importar datos desde archivos SPSS, Stata y SAS a R.</li>
-<li><a href="https://github.com/hadley/tidyr">tidyr</a> - Easily tidy data with spread and gather functions.</li>
-<li><a href="https://github.com/dgrtwo/broom">broom</a> - Convert statistical analysis objects into tidy data frames.</li>
-<li><a href="http://cran.r-project.org/web/packages/lubridate/index.html">lubridate</a> - A set of functions to work with dates and times.</li>
-</ul>
-</section>
-</section>
-<section id="graphic-displays" class="level2">
-<h2 class="anchored" data-anchor-id="graphic-displays">Graphic Displays</h2>
-<p><em>Paquetes para mostrar datos.</em></p>
-<ul>
-<li><a href="https://github.com/hadley/ggplot2">ggplot2</a> - Una implementación de la Gramatica de Gráficas.</li>
-<li><a href="https://cran.r-project.org/web/packages/misc3d/index.html">misc3d</a> - Funciones para trabajar con figuras 3D, isosuperficies etc.</li>
-</ul>
-</section>
-<section id="web-technologies-and-services" class="level2">
-<h2 class="anchored" data-anchor-id="web-technologies-and-services">Web Technologies and Services</h2>
-<p><em>Paquetes para navegard la red.</em></p>
-<ul>
-<li><a href="https://github.com/rstudio/shiny">shiny</a> - Crea aplicaciones de web interactivas de forma facil con R.</li>
-<li><a href="http://cran.r-project.org/web/packages/RCurl/index.html">RCurl</a> - Interfaz de cliente para protocolos de red (HTTP/FTP/…).</li>
-<li><a href="https://github.com/hadley/httr">httr</a> - Interfaz práctica para usar RCurl.</li>
-<li><a href="http://cran.r-project.org/web/packages/XML/index.html">XML</a> - Herramientas para trabajar con XML. parsing and generating XML within R.</li>
-<li><a href="https://github.com/hadley/rvest">rvest</a> - Colectar datos de la web (“web scraping”) desde R.</li>
-<li><a href="https://www.opencpu.org/">OpenCPU</a> - HTTP API para R.</li>
-<li><a href="https://github.com/pablobarbera/Rfacebook">Rfacebook</a> - Accede el API de Facebook.</li>
-<li><a href="https://cran.r-project.org/web/packages/twitteR/twitteR.pdf">TwitteR</a> - Accede el API de twitter desde R.</li>
-</ul>
-</section>
-<section id="r-development" class="level2">
-<h2 class="anchored" data-anchor-id="r-development">R Development</h2>
-<p><em>Paquetes para paquetes.</em></p>
-<ul>
-<li><a href="https://github.com/hadley/devtools">devtools</a> - Herramientas para alegrar la vida de desarrolladores de paquetes en R.</li>
-<li><a href="https://github.com/hadley/testthat">testthat</a> - Un paquete para convertir testeo en una actividad divertida.</li>
-<li><a href="https://github.com/klutometis/roxygen">roxygen</a> - Describe tus funciones a la par de sus definiciones.</li>
-<li><a href="https://github.com/jimhester/lintr">lintr</a> - Análisis de código para hacer un control del estilo usado.</li>
+<li>Hay una lista curada por tipo de tarea que llaman los <a href="https://cran.r-project.org/web/views/">CRAN Task Views</a>. Lo mantiene la comunidad R y da una entrada relativamente actualizada para cada dominio de expertise.</li>
+<li>El site de <a href="https://www.r-bloggers.com">R-Bloggers</a> tiene una historia larga como agregador de blog-posts con temas R.</li>
+<li>El <a href="https://r-universe.dev/search">R-Universe</a> es un lugar que lo mantiene <a href="https://ropensci.org/r-universe/">R-OpenSci</a> para descubrir, desarrollar y publicar paquetes R.</li>
 </ul>
 
 
