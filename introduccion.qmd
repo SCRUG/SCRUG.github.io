@@ -4,10 +4,10 @@ title: "Introducción a R"
 
 Bienvenido al Grupo de Usuarios R en San Carlos, Costa Rica. Si buscas unirte
 al grupo, o si quieres ver las reuniones futuras (o pasadas) mira aqui:
-[www.meetup.com/San-Carlos-R-User-Group/](http://www.meetup.com/San-Carlos-R-User-Group/). 
+[www.meetup.com/San-Carlos-R-User-Group/](http://www.meetup.com/San-Carlos-R-User-Group/).
 
 En esta pagina presentamos información general y esta abierto a todos los
-comentarios y sugerencias para mejorarlo! 
+comentarios y sugerencias para mejorarlo!
 
 ## Instalar R (para participar en los talleres)
 Para participar en los talleres necesitas tener instalado una versión reciente
@@ -28,23 +28,14 @@ install.packages("readxl")
 # Para manipular datos: dplyr, tidyr
 install.packages(c("dplyr", "tidyr"))
 
-# Para visualizar datos: ggplot2 
+# Para visualizar datos: ggplot2
 install.packages("ggplot2")
 ```
 
 ## Recursos para aprender R
-Hay muchos recursos sobre R y bastantes en español. Una lista de documentación
-en español [esta aquí](http://r-es.org/Documentaci%C3%B3n?structure=Comunidad).
+Hay muchos recursos sobre R y bastantes en español. El recurso más recomendado actualmente es el libro [R para Ciencia de Datos](https://es.r4ds.hadley.nz/), una guía moderna, completa y gratuita.
 
-Quizás la forma mas interactiva (divertida) para comenzar es usando
-[swirl-spa](https://github.com/alcideschaux/swirl-spa), la traducción de
-[swirl](https://github.com/swirldev/swirl) al español. Esto de dará un buen
-punto de partida para empezar a explorar R y acostumbrarte a la sintaxis del
-lenguaje.
-
-Ademas recomendamos las presentaciones del grupo de usuarios en Bagota, como la
-[introducción a R](http://bogota-r.github.io/intro/) y sobre [gráficas en
-R](http://bogota-r.github.io/graficas/).
+Quizás la forma más interactiva (divertida) para comenzar es usando [swirl](https://swirlstats.com/students.html) a través de su traducción al español [swirl-spa](https://github.com/alcideschaux/swirl-spa). Esto te dará un buen punto de partida para empezar a explorar R y acostumbrarte a la sintaxis del lenguaje desde la propia consola.
 
 Pero posiblemente lo mas importante es que busques un problema para analizar que
 te guste o que sea necesario para tu trabajo/estudio/saludo mental. Mantenemos
@@ -80,7 +71,7 @@ paquetes en
 *Paquetes para preparar datos.*
 
 * [dplyr](https://github.com/hadley/dplyr) - Manipulación de *data frames* veloz
-  y búsquedas en bases de datos. 
+  y búsquedas en bases de datos.
 * [data.table](https://github.com/Rdatatable/data.table) - Manipulación de
   datos en una sintaxis breve y flexible.
 * [reshape2](https://github.com/hadley/reshape) - Reorganizar, remodelar y
@@ -115,8 +106,8 @@ paquetes en
   para trabajar con XML.
   parsing and generating XML within R.
 * [rvest](https://github.com/hadley/rvest) - Colectar datos de la web ("web
-  scraping") desde R. 
-* [OpenCPU](https://www.opencpu.org/) - HTTP API para R. 
+  scraping") desde R.
+* [OpenCPU](https://www.opencpu.org/) - HTTP API para R.
 * [Rfacebook](https://github.com/pablobarbera/Rfacebook) - Accede el API de
   Facebook.
 * [TwitteR](https://cran.r-project.org/web/packages/twitteR/twitteR.pdf) -
@@ -127,7 +118,7 @@ paquetes en
 *Paquetes para paquetes.*
 
 * [devtools](https://github.com/hadley/devtools) - Herramientas para alegrar la
-  vida de desarrolladores de paquetes en R. 
+  vida de desarrolladores de paquetes en R.
 * [testthat](https://github.com/hadley/testthat) - Un paquete para convertir
   testeo en una actividad divertida.
 * [roxygen](https://github.com/klutometis/roxygen) - Describe tus funciones a

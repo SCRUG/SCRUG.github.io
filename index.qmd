@@ -20,7 +20,7 @@ Organizamos reuniones, talleres y eventos para:
 ¡Es muy fácil! Puedes unirte a nosotros de las siguientes maneras:
 
 *   **Unete a nuestro grupo en Meetup:** [San Carlos R User Group en Meetup.com](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/) para enterarte de nuestras próximas reuniones.
-*   **Visita nuestro canal de YouTube:** [Canal de YouTube de SCRUG](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ) donde puedes ver grabaciones de nuestras reuniones pasadas.
+*   **Mira nuestras reuniones pasadas:** [Lista de reproducción de SCRUG en el canal de Data Latam](https://www.youtube.com/playlist?list=PLZpKvQTlfyCKuTzKZ3N7LOyGwm4Ub1ry3) donde puedes ver grabaciones de nuestras reuniones pasadas.
 *   **Explora nuestro material de aprendizaje:** [Material para autodidactas](material-para-autodidactas.html) para empezar a aprender R a tu propio ritmo.
 
 No importa si eres un principiante o un experto, ¡todos son bienvenidos!
