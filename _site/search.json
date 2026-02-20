@@ -25,42 +25,21 @@
     "href": "introduccion.html#instalar-r-para-participar-en-los-talleres",
     "title": "Introducción a R",
     "section": "Instalar R (para participar en los talleres)",
-    "text": "Instalar R (para participar en los talleres)\nPara participar en los talleres necesitas tener instalado una versión reciente de R y de RStudio Desktop. No importa si usas MS Windows, Mac OSX or Linux en tu computador, para cada uno hay versiones correspondientes de los programas.\nUna vez que tienes R y RStudio Desktop instalado puedes correr el siguiente código para tengas el mínimo de paquetes necesarios para seguir las introducciones. En los anuncios de cada taller y charla se mencionaran paquetes adicionales, pero siempre se asume que tengas instalado como mínimo lo siguiente:\n\n# Para leer datos de Excel: readxl\ninstall.packages(\"readxl\")\n\n# Para manipular datos: dplyr, tidyr\ninstall.packages(c(\"dplyr\", \"tidyr\"))\n\n# Para visualizar datos: ggplot2\ninstall.packages(\"ggplot2\")"
+    "text": "Instalar R (para participar en los talleres)\nPara participar en los talleres necesitas tener instalado una versión reciente de R y de RStudio Desktop. No importa si usas MS Windows, Mac OSX or Linux en tu computador, para cada uno hay versiones correspondientes de los programas."
   },
   {
     "objectID": "introduccion.html#recursos-para-aprender-r",
     "href": "introduccion.html#recursos-para-aprender-r",
     "title": "Introducción a R",
     "section": "Recursos para aprender R",
-    "text": "Recursos para aprender R\nHay muchos recursos sobre R y bastantes en español. El recurso más recomendado actualmente es el libro R para Ciencia de Datos, una guía moderna, completa y gratuita.\nQuizás la forma más interactiva (divertida) para comenzar es usando swirl a través de su traducción al español swirl-spa. Esto te dará un buen punto de partida para empezar a explorar R y acostumbrarte a la sintaxis del lenguaje desde la propia consola.\nPero posiblemente lo mas importante es que busques un problema para analizar que te guste o que sea necesario para tu trabajo/estudio/saludo mental. Mantenemos una pagina con fuentes de datos donde coleccionamos datos sobre San Carlos, Costa Rica, y recursos mas a internacional.\n\nHojas de Referencia en español\n\nTransformación de Datos\nQuarto\nShiny\nDesarrollo de Paquetes\nVisualización de Datos\n\n\n\nHojas de Referencia en inglés\nAvisanos si sabes, o has hecho una traducción\n\nR Reference Card 2.0 - Material del libro R for Beginners.\nData Mining Refcard - Hoja de referencia para minería de datos en R.\nRegression Analysis Refcard - Hoja de referencia para análisis de regresión en R."
+    "text": "Recursos para aprender R\nHay muchos recursos sobre R y bastantes en español. El recurso más recomendado actualmente es el libro R para Ciencia de Datos, una guía moderna, completa y gratuita.\nQuizás la forma más interactiva (divertida) para comenzar es usando swirl a través de su traducción al español swirl-spa. Esto te dará un buen punto de partida para empezar a explorar R y acostumbrarte a la sintaxis del lenguaje desde la propia consola.\nPero posiblemente lo mas importante es que busques un problema para analizar que te guste o que sea necesario para tu trabajo/estudio/saludo mental. Mantenemos una pagina con fuentes de datos donde coleccionamos datos sobre San Carlos, Costa Rica, y recursos mas a internacional.\n\nAlgunas hojas de referencia básicas en español\n\nTransformación de Datos\nQuarto\nShiny\nDesarrollo de Paquetes\nVisualización de Datos"
   },
   {
-    "objectID": "introduccion.html#lista-muy-abreviada-de-cosas-fabulosas",
-    "href": "introduccion.html#lista-muy-abreviada-de-cosas-fabulosas",
+    "objectID": "introduccion.html#lista-curada-por-tipo-de-tarea",
+    "href": "introduccion.html#lista-curada-por-tipo-de-tarea",
     "title": "Introducción a R",
-    "section": "Lista (muy) abreviada de cosas fabulosas",
-    "text": "Lista (muy) abreviada de cosas fabulosas\nHay una lista de cosas fabulosas de R llamada awesome-r. Es un buen recurso para explorar que mas hay. Aquí presentamos un breve resumen, para hacer resaltar lo que consideramos son los mas comunes (no necesariamente lo mas fabuloso). Mira la la lista original para ver muchas mas cosas por descubrir. Y si no te es suficiente, mira la lista completa de paquetes en CRAN.\n\nManipulación de datos\nPaquetes para preparar datos.\n\ndplyr - Manipulación de data frames veloz y búsquedas en bases de datos.\ndata.table - Manipulación de datos en una sintaxis breve y flexible.\nreshape2 - Reorganizar, remodelar y agregar datos.\nreadr - Leer datos en forma de tabla a R.\nhaven - Métodos para importar datos desde archivos SPSS, Stata y SAS a R.\ntidyr - Easily tidy data with spread and gather functions.\nbroom - Convert statistical analysis objects into tidy data frames.\nlubridate - A set of functions to work with dates and times."
-  },
-  {
-    "objectID": "introduccion.html#graphic-displays",
-    "href": "introduccion.html#graphic-displays",
-    "title": "Introducción a R",
-    "section": "Graphic Displays",
-    "text": "Graphic Displays\nPaquetes para mostrar datos.\n\nggplot2 - Una implementación de la Gramatica de Gráficas.\nmisc3d - Funciones para trabajar con figuras 3D, isosuperficies etc."
-  },
-  {
-    "objectID": "introduccion.html#web-technologies-and-services",
-    "href": "introduccion.html#web-technologies-and-services",
-    "title": "Introducción a R",
-    "section": "Web Technologies and Services",
-    "text": "Web Technologies and Services\nPaquetes para navegard la red.\n\nshiny - Crea aplicaciones de web interactivas de forma facil con R.\nRCurl - Interfaz de cliente para protocolos de red (HTTP/FTP/…).\nhttr - Interfaz práctica para usar RCurl.\nXML - Herramientas para trabajar con XML. parsing and generating XML within R.\nrvest - Colectar datos de la web (“web scraping”) desde R.\nOpenCPU - HTTP API para R.\nRfacebook - Accede el API de Facebook.\nTwitteR - Accede el API de twitter desde R."
-  },
-  {
-    "objectID": "introduccion.html#r-development",
-    "href": "introduccion.html#r-development",
-    "title": "Introducción a R",
-    "section": "R Development",
-    "text": "R Development\nPaquetes para paquetes.\n\ndevtools - Herramientas para alegrar la vida de desarrolladores de paquetes en R.\ntestthat - Un paquete para convertir testeo en una actividad divertida.\nroxygen - Describe tus funciones a la par de sus definiciones.\nlintr - Análisis de código para hacer un control del estilo usado."
+    "section": "Lista curada por tipo de tarea",
+    "text": "Lista curada por tipo de tarea\n\nHay una lista curada por tipo de tarea que llaman los CRAN Task Views. Lo mantiene la comunidad R y da una entrada relativamente actualizada para cada dominio de expertise.\nEl site de R-Bloggers tiene una historia larga como agregador de blog-posts con temas R.\nEl R-Universe es un lugar que lo mantiene R-OpenSci para descubrir, desarrollar y publicar paquetes R."
   },
   {
     "objectID": "fuentes-de-datos.html",

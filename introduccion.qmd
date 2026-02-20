@@ -16,24 +16,10 @@ Desktop](https://www.rstudio.com/products/rstudio/download/).  No importa si
 usas MS Windows, Mac OSX or Linux en tu computador, para cada uno hay versiones
 correspondientes de los programas.
 
-Una vez que tienes R y RStudio Desktop instalado puedes correr el siguiente
-código para tengas el mínimo de paquetes necesarios para seguir las
-introducciones. En los anuncios de cada taller y charla se mencionaran paquetes
-adicionales, pero siempre se asume que tengas instalado como mínimo lo siguiente:
-
-```{r, echo=TRUE, eval=FALSE}
-# Para leer datos de Excel: readxl
-install.packages("readxl")
-
-# Para manipular datos: dplyr, tidyr
-install.packages(c("dplyr", "tidyr"))
-
-# Para visualizar datos: ggplot2
-install.packages("ggplot2")
-```
-
 ## Recursos para aprender R
-Hay muchos recursos sobre R y bastantes en español. El recurso más recomendado actualmente es el libro [R para Ciencia de Datos](https://es.r4ds.hadley.nz/), una guía moderna, completa y gratuita.
+Hay muchos recursos sobre R y bastantes en español. El recurso más recomendado
+actualmente es el libro [R para Ciencia de Datos](https://es.r4ds.hadley.nz/),
+una guía moderna, completa y gratuita.
 
 Quizás la forma más interactiva (divertida) para comenzar es usando [swirl](https://swirlstats.com/students.html) a través de su traducción al español [swirl-spa](https://github.com/alcideschaux/swirl-spa). Esto te dará un buen punto de partida para empezar a explorar R y acostumbrarte a la sintaxis del lenguaje desde la propia consola.
 
@@ -42,86 +28,15 @@ te guste o que sea necesario para tu trabajo/estudio/saludo mental. Mantenemos
 una [pagina con fuentes de datos](fuentes-de-datos.html) donde coleccionamos
 datos sobre San Carlos, Costa Rica, y recursos mas a internacional.
 
-### Hojas de Referencia en español
+### Algunas hojas de referencia básicas en español
 * [Transformación de Datos](https://rstudio.github.io/cheatsheets/translations/spanish/data-transformation-spanish.pdf)
 * [Quarto](https://rstudio.github.io/cheatsheets/translations/spanish/quarto-spanish.pdf)
 * [Shiny](https://rstudio.github.io/cheatsheets/translations/spanish/shiny-spanish.pdf)
 * [Desarrollo de Paquetes](https://rstudio.github.io/cheatsheets/translations/spanish/package-development-spanish.pdf)
 * [Visualización de Datos](https://rstudio.github.io/cheatsheets/translations/spanish/ggplot2-spanish.pdf)
 
-### Hojas de Referencia en inglés
-*Avisanos si sabes, o has hecho una traducción*
+## Lista curada por tipo de tarea
 
-* [R Reference Card 2.0](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf) - Material
-del libro [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf).
-* [Data Mining Refcard](http://www.rdatamining.com/docs/R-refcard-data-mining.pdf) - Hoja de referencia para minería de datos en R.
-* [Regression Analysis Refcard](http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf) - Hoja de referencia para análisis de regresión en R.
-
-## Lista (muy) abreviada de cosas fabulosas
-Hay una lista de cosas fabulosas de R llamada
-[awesome-r](https://github.com/qinwf/awesome-R). Es un buen recurso para
-explorar que mas hay. Aquí presentamos un breve resumen, para hacer resaltar lo
-que consideramos son los mas comunes (no necesariamente lo mas fabuloso).  Mira
-la [la lista original](https://github.com/qinwf/awesome-R) para ver muchas mas
-cosas por descubrir. Y si no te es suficiente, mira la lista completa de
-paquetes en
-[CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html).
-
-### Manipulación de datos
-*Paquetes para preparar datos.*
-
-* [dplyr](https://github.com/hadley/dplyr) - Manipulación de *data frames* veloz
-  y búsquedas en bases de datos.
-* [data.table](https://github.com/Rdatatable/data.table) - Manipulación de
-  datos en una sintaxis breve y flexible.
-* [reshape2](https://github.com/hadley/reshape) - Reorganizar, remodelar y
-  agregar datos.
-* [readr](https://github.com/hadley/readr) - Leer datos en forma de tabla a R.
-* [haven](https://github.com/hadley/haven) - Métodos para importar datos desde
-  archivos SPSS, Stata y SAS a R.
-* [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and
-  gather functions.
-* [broom](https://github.com/dgrtwo/broom) - Convert statistical analysis
-  objects into tidy data frames.
-* [lubridate](http://cran.r-project.org/web/packages/lubridate/index.html) - A
-  set of functions to work with dates and times.
-
-## Graphic Displays
-*Paquetes para mostrar datos.*
-
-* [ggplot2](https://github.com/hadley/ggplot2) - Una implementación de la
-  Gramatica de Gráficas.
-* [misc3d](https://cran.r-project.org/web/packages/misc3d/index.html) -
-  Funciones para trabajar con figuras 3D, isosuperficies etc.
-
-## Web Technologies and Services
-*Paquetes para navegard la red.*
-
-* [shiny](https://github.com/rstudio/shiny) - Crea aplicaciones de web
-  interactivas de forma facil con R.
-* [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - Interfaz
-  de cliente para protocolos de red (HTTP/FTP/...).
-* [httr](https://github.com/hadley/httr) - Interfaz práctica para usar RCurl.
-* [XML](http://cran.r-project.org/web/packages/XML/index.html) - Herramientas
-  para trabajar con XML.
-  parsing and generating XML within R.
-* [rvest](https://github.com/hadley/rvest) - Colectar datos de la web ("web
-  scraping") desde R.
-* [OpenCPU](https://www.opencpu.org/) - HTTP API para R.
-* [Rfacebook](https://github.com/pablobarbera/Rfacebook) - Accede el API de
-  Facebook.
-* [TwitteR](https://cran.r-project.org/web/packages/twitteR/twitteR.pdf) -
-  Accede el API de twitter desde R.
-
-
-## R Development
-*Paquetes para paquetes.*
-
-* [devtools](https://github.com/hadley/devtools) - Herramientas para alegrar la
-  vida de desarrolladores de paquetes en R.
-* [testthat](https://github.com/hadley/testthat) - Un paquete para convertir
-  testeo en una actividad divertida.
-* [roxygen](https://github.com/klutometis/roxygen) - Describe tus funciones a
-  la par de sus definiciones.
-* [lintr](https://github.com/jimhester/lintr) - Análisis de código para hacer
-  un control del estilo usado.
+ - Hay una lista curada por tipo de tarea que llaman los [CRAN Task Views](https://cran.r-project.org/web/views/). Lo mantiene la comunidad R y da una entrada relativamente actualizada para cada dominio de expertise.
+ - El site de [R-Bloggers](https://www.r-bloggers.com) tiene una historia larga como agregador de blog-posts con temas R.
+ - El [R-Universe](https://r-universe.dev/search) es un lugar que lo mantiene [R-OpenSci](https://ropensci.org/r-universe/) para descubrir, desarrollar y publicar paquetes R.
