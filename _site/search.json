@@ -32,7 +32,7 @@
     "href": "introduccion.html#recursos-para-aprender-r",
     "title": "Introducción a R",
     "section": "Recursos para aprender R",
-    "text": "Recursos para aprender R\nHay muchos recursos sobre R y bastantes en español. El recurso más recomendado actualmente es el libro R para Ciencia de Datos, una guía moderna, completa y gratuita.\nQuizás la forma más interactiva (divertida) para comenzar es usando swirl a través de su traducción al español swirl-spa. Esto te dará un buen punto de partida para empezar a explorar R y acostumbrarte a la sintaxis del lenguaje desde la propia consola.\nPero posiblemente lo mas importante es que busques un problema para analizar que te guste o que sea necesario para tu trabajo/estudio/saludo mental. Mantenemos una pagina con fuentes de datos donde coleccionamos datos sobre San Carlos, Costa Rica, y recursos mas a internacional.\n\nHojas de Referencia en español\n\nDomar Datos\nR Markdown\nShiny\nDesarollo de Paquetes\nVisualización de Datos\n\n\n\nHojas de Referencia en inglés\nAvisanos si sabes, o has hecho una traducción\n\nR Reference Card 2.0 - Material del libro R for Beginners.\nData Mining Refcard - Hoja de referencia para minería de datos en R.\nRegression Analysis Refcard - Hoja de referencia para análisis de regresión en R."
+    "text": "Recursos para aprender R\nHay muchos recursos sobre R y bastantes en español. El recurso más recomendado actualmente es el libro R para Ciencia de Datos, una guía moderna, completa y gratuita.\nQuizás la forma más interactiva (divertida) para comenzar es usando swirl a través de su traducción al español swirl-spa. Esto te dará un buen punto de partida para empezar a explorar R y acostumbrarte a la sintaxis del lenguaje desde la propia consola.\nPero posiblemente lo mas importante es que busques un problema para analizar que te guste o que sea necesario para tu trabajo/estudio/saludo mental. Mantenemos una pagina con fuentes de datos donde coleccionamos datos sobre San Carlos, Costa Rica, y recursos mas a internacional.\n\nHojas de Referencia en español\n\nTransformación de Datos\nQuarto\nShiny\nDesarrollo de Paquetes\nVisualización de Datos\n\n\n\nHojas de Referencia en inglés\nAvisanos si sabes, o has hecho una traducción\n\nR Reference Card 2.0 - Material del libro R for Beginners.\nData Mining Refcard - Hoja de referencia para minería de datos en R.\nRegression Analysis Refcard - Hoja de referencia para análisis de regresión en R."
   },
   {
     "objectID": "introduccion.html#lista-muy-abreviada-de-cosas-fabulosas",
@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Bienvenidos al San Carlos R User Group (SCRUG)",
     "section": "",
-    "text": "¡Hola y bienvenido!\nSomos un grupo de entusiastas de R en la Zona Norte de Costa Rica. Nos reunimos para aprender, compartir y colaborar en proyectos relacionados con el análisis de datos y el lenguaje de programación R."
+    "text": "¡Hola y bienvenido!\nSomos un grupo de entusiastas de R en la Zona Norte de Costa Rica, abierto a cualquier participante de Latinoamérica. Nos reunimos para aprender, compartir y colaborar en proyectos relacionados con el análisis de datos y el lenguaje de programación R."
   },
   {
     "objectID": "index.html#qué-hacemos",
@@ -109,7 +109,7 @@
     "href": "index.html#cómo-participar",
     "title": "Bienvenidos al San Carlos R User Group (SCRUG)",
     "section": "¿Cómo participar?",
-    "text": "¿Cómo participar?\n¡Es muy fácil! Puedes unirte a nosotros de las siguientes maneras:\n\nUnete a nuestro grupo en Meetup: San Carlos R User Group en Meetup.com para enterarte de nuestras próximas reuniones.\nMira nuestras reuniones pasadas: Lista de reproducción de SCRUG en el canal de Data Latam donde puedes ver grabaciones de nuestras reuniones pasadas.\nExplora nuestro material de aprendizaje: Material para autodidactas para empezar a aprender R a tu propio ritmo.\n\nNo importa si eres un principiante o un experto, ¡todos son bienvenidos!"
+    "text": "¿Cómo participar?\n¡Es muy fácil! Puedes unirte a nosotros de las siguientes maneras:\n\nUnete a nuestro grupo en Meetup: San Carlos R User Group en Meetup.com para enterarte de nuestras próximas reuniones.\nMira nuestras reuniones pasadas: Lista de reproducción de SCRUG en el canal de Data Latam donde puedes ver grabaciones de nuestras reuniones pasadas.\nExplora nuestro material de aprendizaje: Material para autodidactas para empezar a aprender R a tu propio ritmo.\n\nNo importa si eres un principiante o un experto, ¡toda persona interesada es bienvenida!"
   },
   {
     "objectID": "material-para-autodidactas.html",

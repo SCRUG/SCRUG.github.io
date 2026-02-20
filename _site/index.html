@@ -128,6 +128,10 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#qué-hacemos" id="toc-qué-hacemos" class="nav-link active" data-scroll-target="#qué-hacemos">¿Qué hacemos?</a></li>
   <li><a href="#cómo-participar" id="toc-cómo-participar" class="nav-link" data-scroll-target="#cómo-participar">¿Cómo participar?</a></li>
+  <li><a href="#agenda-para-2026" id="toc-agenda-para-2026" class="nav-link" data-scroll-target="#agenda-para-2026">Agenda para 2026</a>
+  <ul class="collapse">
+  <li><a href="#formato" id="toc-formato" class="nav-link" data-scroll-target="#formato">Formato</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -154,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>¡Hola y bienvenido!</p>
-<p>Somos un grupo de entusiastas de R en la Zona Norte de Costa Rica. Nos reunimos para aprender, compartir y colaborar en proyectos relacionados con el análisis de datos y el lenguaje de programación R.</p>
+<p>Somos un grupo de entusiastas de R en la Zona Norte de Costa Rica, abierto a cualquier participante de Latinoamérica. Nos reunimos para aprender, compartir y colaborar en proyectos relacionados con el análisis de datos y el lenguaje de programación R.</p>
 <section id="qué-hacemos" class="level2">
 <h2 class="anchored" data-anchor-id="qué-hacemos">¿Qué hacemos?</h2>
 <p>Organizamos reuniones, talleres y eventos para:</p>
@@ -173,9 +177,61 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Mira nuestras reuniones pasadas:</strong> <a href="https://www.youtube.com/playlist?list=PLZpKvQTlfyCKuTzKZ3N7LOyGwm4Ub1ry3">Lista de reproducción de SCRUG en el canal de Data Latam</a> donde puedes ver grabaciones de nuestras reuniones pasadas.</li>
 <li><strong>Explora nuestro material de aprendizaje:</strong> <a href="material-para-autodidactas.html">Material para autodidactas</a> para empezar a aprender R a tu propio ritmo.</li>
 </ul>
-<p>No importa si eres un principiante o un experto, ¡todos son bienvenidos!</p>
+<p>No importa si eres un principiante o un experto, ¡toda persona interesada es bienvenida!</p>
+</section>
+<section id="agenda-para-2026" class="level1">
+<h1>Agenda para 2026</h1>
+<p>Esta lista son ideas iniciales. Si tienes alguna idea o si quires ser el moderador para una de las sesiones avisanos! Sería buenisimo incluirte como moderador. Asimismo si tienes ideas para temas, o sugerencias para cambiar alguna haznoslo saber, el programa es una idea inicial que esta abierta a cambios.</p>
+<p>El enfoque de la temática es “R como lenguaje de producción” para reflejar los avances del lenguaje y el ecosistema R y la comunidad alrededor del lenguaje. 2025 vió la llegada por ejemplo de <code>rv</code> lo que nos permite llevar reproducibilidad y despliegue al siguiente nivel.</p>
+<p>Para inscribirte visita: <a href="https://www.meetup.com/es-ES/San-Carlos-R-User-Group/">Meetup SCRUG</a>. Todas las reuniones son en linea (remotas via Zoom).</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Fecha</th>
+<th style="text-align: left;">Tema</th>
+<th style="text-align: left;">Relevancia</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Febrero 26</td>
+<td style="text-align: left;">Gestionar paquetes R con <code>rv</code></td>
+<td style="text-align: left;"><a href="https://a2-ai.github.io/rv-docs/">El gestor de paquete <code>rv</code></a> fue creado por la gente en a2-ai y ha visto una adopción muy rapida porque nos da un gestor de paquetes que tiene carecteristicas que Astral <code>uv</code> nos da en python. Vamos a arrancar con una introduccion para explicar la importancia de un gestor de versiones de paquetes y mostrar su uso con ejemplos prácticos.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Abril 30</td>
+<td style="text-align: left;">Crear un servidor MCP con R para usar funcionaes en soluciones genAI</td>
+<td style="text-align: left;">EL uso serio de LLM para resolver casos de uso de ciencia e industria requiere poder definir y darle a tus agentes la posibilidad de acceder funciones. Damos una introduccion explicando MCP como una de las formas para trabajar con funciones y algunos ejemplos practicos para crearlos</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Junio 25</td>
+<td style="text-align: left;">genAI para convertir texto en datos estructurados</td>
+<td style="text-align: left;">Una de las grandes bondades de genAi en aplicaciones de analisis de datos es que nos permite convertir datos no estructurados a tablas estructuradas. En particular lo usamos para extraer datos de texto, pero tambien ayuda para recopilar información disponible en audio y video. Damos una breve introducción para enfocarnos en ejemplos practicos.</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Agosto 27</td>
+<td style="text-align: left;">Uso de docker para poner codigo R en produccion</td>
+<td style="text-align: left;">Docker es la tecnologia en uso por defecto para desplegar software y al ser agnostico del lenguaje en uso permite un alto grade de interoperabilidad en soluciones de datos. Vamos a comenzar desde el principio, con una breve introduccion a lo que es Docker, para que sirve y como lo podemos usar para desplegar codigo R.</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Octubre 29</td>
+<td style="text-align: left;">Llevar codigo R a API’s en producción con <code>plumber2</code></td>
+<td style="text-align: left;">Entre los paquetes que facilitan escribir API’s (servicios web) con R, plumber ha visto una gran adopción. Y sus maintaners decidieron re-escribirlo para modernizar y optimizar el codigo, introduciendo entre otras <code>httr2</code>. En esta sesion vamos a comenzar desde el principio, explicando porque es util poder escribir API y mostrar de una forma practica como hacerlo con plumber2</td>
+</tr>
+</tbody>
+</table>
+<section id="formato" class="level3">
+<h3 class="anchored" data-anchor-id="formato">Formato</h3>
+<p>Para este año proponemos el siguiente formato.</p>
+<ul>
+<li>5 min. Bienvenida (dar algo de tiempo para que gente llegue, despues cerramos la sala)</li>
+<li>20 min. Charla y demo con el contenido</li>
+<li>15 min. Discusión.</li>
+</ul>
+<p>Si quieres participar por favor llega a tiempo. Buscamos publicar la grabación de la charla y demo, pero no de la discusión para que todos se sientan comodos en participar y hacer cualquier pregunta que tengan.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

@@ -43,11 +43,11 @@ una [pagina con fuentes de datos](fuentes-de-datos.html) donde coleccionamos
 datos sobre San Carlos, Costa Rica, y recursos mas a internacional.
 
 ### Hojas de Referencia en español
-* [Domar Datos](http://www.rstudio.com/wp-content/uploads/2015/03/data-wrangling-spanish.pdf)
-* [R Markdown](http://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-spanish.pdf)
-* [Shiny](http://www.rstudio.com/wp-content/uploads/2015/03/shiny-spanish.pdf)
-* [Desarollo de Paquetes](http://www.rstudio.com/wp-content/uploads/2015/03/devtools-spanish.pdf)
-* [Visualización de Datos](http://www.rstudio.com/wp-content/uploads/2015/04/ggplot2-spanish.pdf)
+* [Transformación de Datos](https://rstudio.github.io/cheatsheets/translations/spanish/data-transformation-spanish.pdf)
+* [Quarto](https://rstudio.github.io/cheatsheets/translations/spanish/quarto-spanish.pdf)
+* [Shiny](https://rstudio.github.io/cheatsheets/translations/spanish/shiny-spanish.pdf)
+* [Desarrollo de Paquetes](https://rstudio.github.io/cheatsheets/translations/spanish/package-development-spanish.pdf)
+* [Visualización de Datos](https://rstudio.github.io/cheatsheets/translations/spanish/ggplot2-spanish.pdf)
 
 ### Hojas de Referencia en inglés
 *Avisanos si sabes, o has hecho una traducción*
