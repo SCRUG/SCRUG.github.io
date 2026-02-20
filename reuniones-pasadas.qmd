@@ -1,43 +1,6 @@
 ---
-title: "SCRUG (San Carlos R User Group)"
-output: 
-  html_document: 
-    highlight: tango
-    theme: flatly
+title: "Reuniones Pasadas"
 ---
-
-El SCRUG organiza reuniones **en linea** sobre R. La participación es gratis para todos los interesados, y se organizan desde Costa Rica para todos los interesados en R en Latinoamerica.
-
-[Quieres participar?](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/) Ven a la siguiente reunion del San Carlos RUG. Las
-organizamos cada último jueves del mes de 19:00 a 20:00 (hora tica UTC-6). Las
-reuniones son en linea para que sea fácil asisistir, aún si no estas en San
-Carlos (o Costa Rica). Anunciamos las reuniones [a travez de Meetup.com, y te agradecemos si anuncias tu participación allí](http://www.meetup.com/es-ES/San-Carlos-R-User-Group).
-
-
-**Si vienes por primera vez**
-
-Todas las reuniones se hacen en linea, asi que no importa donde estes. Si vale la pena tomar en cuenta que solo hay espacio para 24 participantes en vivo. Los demas pueden participar viendo el [stream en vivo en Youtube Live](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ). Si te [registras en meetup.com](https://www.meetup.com/es-ES/San-Carlos-R-User-Group/) para el evento te llegará el link al hangout correspondiente.
-
-Mira la [introducción y listado de recursos](http://sancarlos-rug.github.io/introduccion.html) para arrancar con R. En los talleres tratamos de acomodar todos los niveles. Así que aún si no has
-participado antes estas bienvenida/o. Puedes ver las presentaciones anteriores
-abajo (sigue los eslabones "Ver la presentación" al lado del anuncio de las
-sesiones.). 
-
----
-
-<!--
-## Proyectos
-
-Titulo y repositorio | Incidentes abiertos | Participantes 
----------------------|---------------------|-----------------
-<a href="https://github.com/SanCarlos-RUG/ActasTransparentes"><img src="https://img.shields.io/badge/ActasTransparentes-activo-green.svg"></a>        | <a href="https://github.com/SanCarlos-RUG/ActasTransparentes"><img src="https://img.shields.io/github/issues/SanCarlos-RUG/ActasTransparentes.svg"></a>            | <a href="https://github.com/SanCarlos-RUG/ActasTransparentes"> <img src="https://img.shields.io/github/forks/SanCarlos-RUG/ActasTransparentes.svg"></a>
-<a href="https://github.com/SanCarlos-RUG/PDFcurdler"><img src="https://img.shields.io/badge/PDFcurdler-activo-green.svg"></a>                          | <a href="https://github.com/SanCarlos-RUG/PDFcurdler"> <img src="https://img.shields.io/github/issues/SanCarlos-RUG/PDFcurdler.svg"></a>                           | <a href="https://github.com/SanCarlos-RUG/PDFcurdler"><img src="https://img.shields.io/github/forks/SanCarlos-RUG/PDFcurdler.svg"></a>
-<a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"><img src="https://img.shields.io/badge/SanCarlosRUG.github.io-activo-green.svg"></a> | <a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"><img src="https://img.shields.io/github/issues/SanCarlos-RUG/SanCarlos-RUG.github.io.svg"></a> | <a href="https://github.com/SanCarlos-RUG/SanCarlos-RUG.github.io"><img src="https://img.shields.io/github/forks/SanCarlos-RUG/SanCarlos-RUG.github.io.svg"></a>
-
----
-
--->
-
 
 ## Agenda de reuniones
 

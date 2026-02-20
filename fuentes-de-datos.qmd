@@ -1,9 +1,5 @@
 ---
 title: "Fuentes de Datos"
-output: 
-  html_document: 
-    highlight: tango
-    theme: flatly
 ---
 ## Datos Abiertos en San Carlos
 - [Municipio de San Carlos: actas del consejo ](http://www.munisc.go.cr/Paginas/Visitantes/Transparencia.aspx). 
@@ -32,7 +28,7 @@ output:
   Princeton](http://dss.princeton.edu/cgi-bin/dataresources/newdataresources.cgi?term=117).
   Mantienen una pagina con datos que incluyen Costa Rica. No todos son
   abiertos, y no todos son datos crudos.
-- [OpenData Barometer](http://www.opendatabarometer.org/). Incluyen 
+- [OpenData Barometer](http.opendatabarometer.org/). Incluyen 
   [datos del 2014](http://www.opendatabarometer.org/report/about/data.html)
 - [datos del banco mundial](http://data.worldbank.org/country/costa-rica).  Son ordenados
 (relativamente fáciles de usar) y dan muchos datos históricos con que jugar.

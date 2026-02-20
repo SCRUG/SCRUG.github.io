@@ -1,9 +1,5 @@
 ---
-title: "San Carlos R User Group"
-output: 
-  html_document: 
-    highlight: tango
-    theme: flatly
+title: "Material para Autodidactas"
 ---
 Bienvenido al Grupo de Usuarios R en San Carlos, Costa Rica. Si buscas unirte
 al grupo, o si quieres ver las reuniones futuras (o pasadas) mira aquí :
@@ -23,8 +19,8 @@ Esta pagina busca ser un punto de partida para aquellos compañeros que se está
 
 + [R para principiantes](ftp://cran.r-project.org/pub/R/doc/contrib/rdebuts_es.pdf)
 
-> #### Autor : Emmanuel Paradis \<paradis@isem.univ-montp2.fr\>, Francia.
-#### Traductor : Jorge A. Ahumada \<jahumada@usgs.gov\>,EE.UU.
+> #### Autor : Emmanuel Paradis <paradis@isem.univ-montp2.fr>, Francia.
+#### Traductor : Jorge A. Ahumada <jahumada@usgs.gov>,EE.UU.
 #### Año de publicación : 2003.
 #### Nivel : Básico.
 
